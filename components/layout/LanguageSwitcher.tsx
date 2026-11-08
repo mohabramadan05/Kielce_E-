@@ -14,7 +14,7 @@ export function LanguageSwitcher() {
         <button
           key={l}
           onClick={() => router.replace(pathname, { locale: l })}
-          className={l === locale ? "font-bold" : "text-text-2 hover:text-brand"}
+          className={l === locale ? "font-bold" : "text-fg-2 hover:text-brand"}
         >
           {l.toUpperCase()}
         </button>

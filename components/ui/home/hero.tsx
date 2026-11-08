@@ -15,7 +15,7 @@ export default async  function  Hero() {
         <p className="w-1/3 text-white text-center text-lg">{t("desc")}</p>
         <div className="flex gap-5 ">
           <Link className="bg-line text-brand-ink px-6 py-3 rounded-full font-bold" href="/students/incoming" >{t("incoming")} →</Link>
-          <Link className="bg-gray-400/40 text-white px-6 py-3 rounded-full font-bold" href="/students/outcoming" >{t("outgoing")} →</Link>
+          <Link className="bg-gray-400/40 text-white px-6 py-3 rounded-full font-bold" href="/students/outgoing" >{t("outgoing")} →</Link>
         </div>
       </div>
     </div>
