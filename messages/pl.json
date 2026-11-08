@@ -75,6 +75,10 @@
     "staff": "Pracownicy administracyjni",
     "outgoings": "Wyjazdy",
     "incomings": "Przyjazdy",
-    "dept-staff": "Dział Rozwoju Kadr i Współpracy Międzynarodowej"
+    "dept-staff": "Dział Rozwoju Kadr i Współpracy Międzynarodowej",
+    "admin": "Personel administracyjny",
+    "incoming": "PRZYJEŻDŻAJĄCY",
+    "outcoming": "WYJEŻDŻAJĄCY",
+    "dept": "Dział Rozwoju Kadr i Współpracy Międzynarodowej"
   }
 }

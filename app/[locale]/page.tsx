@@ -1,4 +1,3 @@
-import Image from "next/image";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import Hero from "../../components/ui/home/hero";
 import Why from "../../components/ui/home/why";

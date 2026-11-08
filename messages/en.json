@@ -73,8 +73,10 @@
     "wbia": "Faculty of Civil Engineering and Architecture",
     "wisge": "Faculty of Environmental Engineering, Geomatics and Renewable Energy",
     "staff": "Administrative staff",
-    "outgoings": "Outgoings",
-    "incomings": "Incomings",
-    "dept-staff": "Department of Staff Development and International Cooperation"
+    "dept-staff": "Department of Staff Development and International Cooperation",
+    "admin":"Administrative staff",
+    "incomings":"INCOMINGS",
+    "outcomings":"OUTCOMINGS",
+    "dept":"Department of Staff Development and International Cooperation"
   }
 }
