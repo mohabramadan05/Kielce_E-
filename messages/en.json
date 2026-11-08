@@ -1,0 +1,80 @@
+{
+  "Metadata": {
+    "title": "Kielce Erasmus Plus",
+    "description": "Your guide to studying and living in Kielce as an Erasmus+ student."
+  },
+  "Header": {
+    "toggleMenu": "Toggle menu",
+    "about": "About",
+    "policy": "Policy Statement",
+    "news": "News",
+    "gallery": "Photo Gallery",
+    "students": "Students",
+    "incoming": "Incoming students",
+    "outgoing": "Outgoing students",
+    "ka171": "KA-171 Countries",
+    "ka220": "KA220",
+    "contact": "Contact",
+    "coordinators": "Coordinators",
+    "apply": "Apply Now"
+  },
+  "Footer": {
+    "bottom": "Kielce University of Technology — Erasmus+ 2026",
+    "dept": "Department of Staff Development and International Cooperation",
+    "incoming": "Incoming Students",
+    "outgoing": "Outgoing Students",
+    "partners": "Partner Universities",
+    "expolre": "EXPLORE",
+    "follow": "FOLLOW"
+  },
+  "HomePage": {
+    "title": "ERASMUS+ PROGRAMME",
+    "sub-title": "Erasmus+ changing lives, opening minds!",
+    "desc": "Study or train abroad through the Erasmus+ programme at Kielce University of Technology — for incoming and outgoing students, staff, and partner institutions.",
+    "incoming": "Incoming students",
+    "outgoing": "Outgoing students",
+    "partners": "Partner Universities",
+    "ka171": "KA-171 Countries",
+    "why": "Why Erasmus+ at KUT?",
+    "ans": "Every mobility builds skills, confidence, and a stronger CV.",
+    "stories": "STUDENT STORIES",
+    "testimonials": "Testimonials of Erasmus+ students",
+    "testimonials-desc": "Hear directly from students who studied or trained abroad through Erasmus+ — their experiences, friendships, and the skills they gained.",
+    "testimonials-btn": "Read their stories",
+    "get": "Get started",
+    "get-desc": "Everything you need to plan your Erasmus+ mobility.",
+    "c1": "Arriving at KUT for an exchange semester.",
+    "c2": "Heading abroad on a KUT mobility.",
+    "c3": "Our network across Europe and beyond.",
+    "c4": "Mobility with partner countries worldwide.",
+    "contact-title-01": "Don't waste your chance — join ",
+    "contact-title-02": "the Erasmus+ exchange!",
+    "contact-desc-01": "The Department of Staff Development and International",
+    "contact-desc-02": "Cooperation is here to help you every step of the way.",
+    "contact": "Contact us"
+  },
+  "Theme": {
+    "toLight": "Light",
+    "toDark": "Dark"
+  },
+  "Coordinators": {
+    "get": "GET IN TOUCH",
+    "title": "Coordinators",
+    "desc": "One contact for the whole university, and one per faculty for study, teaching, staff, and internship mobilities.",
+    "eur-cor": "Erasmus+ University Coordinator",
+    "building": "Building",
+    "room": "Room",
+    "study": "Study / teacher & staff mobilities",
+    "intern": "Internship",
+    "study-intern": "Study / teacher / staff mobilities & internship",
+    "weaii": "Faculty of Electrical Engineering, Automatic Control and Computer Science",
+    "wmibm": "Faculty of Mechatronics and Mechanical Engineering",
+    "wzimk": "Faculty of Management and Computer Modelling",
+    "wbia": "Faculty of Civil Engineering and Architecture",
+    "wisge": "Faculty of Environmental Engineering, Geomatics and Renewable Energy",
+    "staff": "Administrative staff",
+    "outgoings": "Outgoings",
+    "incomings": "Incomings",
+    "dept-staff": "Department of Staff Development and International Cooperation"
+  }
+}

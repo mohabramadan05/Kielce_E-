@@ -1,0 +1,80 @@
+{
+  "Metadata": {
+    "title": "Kielce Erasmus Plus",
+    "description": "Twój przewodnik po studiowaniu i życiu w Kielcach w ramach programu Erasmus+."
+  },
+  "Header": {
+    "toggleMenu": "Przełącz menu",
+    "about": "O nas",
+    "policy": "Deklaracja polityki",
+    "news": "Aktualności",
+    "gallery": "Galeria zdjęć",
+    "students": "Studenci",
+    "incoming": "Studenci przyjeżdżający",
+    "outgoing": "Studenci wyjeżdżający",
+    "ka171": "Kraje KA-171",
+    "ka220": "KA220",
+    "contact": "Kontakt",
+    "coordinators": "Koordynatorzy",
+    "apply": "Aplikuj teraz"
+  },
+  "Footer": {
+    "bottom": "Politechnika Świętokrzyska — Erasmus+ 2026",
+    "dept": "Wydział Rozwoju Kadr i Współpracy Międzynarodowej",
+    "incoming": "Studenci przyjeżdżający",
+    "outgoing": "Studenci wyjeżdżający",
+    "partners": "Uczelnie partnerskie",
+    "expolre": "ODKRYWAJ",
+    "follow": "OBSERWUJ"
+  },
+  "HomePage": {
+    "title": "PROGRAM ERASMUS+",
+    "sub-title": "Erasmus+ zmienia życie, otwiera umysły!",
+    "desc": "Studiuj lub odbywaj praktyki za granicą w ramach programu Erasmus+ na Politechnice Świętokrzyskiej — dla studentów przyjeżdżających i wyjeżdżających, pracowników oraz instytucji partnerskich.",
+    "incoming": "Studenci przyjeżdżający",
+    "outgoing": "Studenci wyjeżdżający",
+    "partners": "Uczelnie partnerskie",
+    "ka171": "Kraje KA-171",
+    "why": "Dlaczego Erasmus+ na PŚk?",
+    "ans": "Każdy wyjazd rozwija umiejętności, pewność siebie i wzmacnia CV.",
+    "stories": "HISTORIE STUDENTÓW",
+    "testimonials": "Opinie<br/>studentów Erasmus+",
+    "testimonials-desc": "Posłuchaj studentów, którzy studiowali lub odbywali praktyki <br/>za granicą w ramach Erasmus+ — o ich doświadczeniach, <br/>przyjaźniach i zdobytych umiejętnościach.",
+    "testimonials-btn": "Przeczytaj ich historie",
+    "get": "Zacznij",
+    "get-desc": "Wszystko, czego potrzebujesz, aby zaplanować swój wyjazd w ramach Erasmus+.",
+    "c1": "Przyjazd na PŚk na semestr wymiany.",
+    "c2": "Wyjazd za granicę w ramach mobilności PŚk.",
+    "c3": "Nasza sieć partnerów w Europie i poza nią.",
+    "c4": "Mobilność z krajami partnerskimi na całym świecie.",
+    "contact-title-01": "Nie przegap swojej szansy — dołącz",
+    "contact-title-02": ">do wymiany Erasmus+!",
+    "contact-desc-01": "Dział Rozwoju Kadr i Współpracy Międzynarodowej",
+    "contact-desc-02": "pomoże Ci na każdym etapie.",
+    "contact": "Skontaktuj się z nami"
+  },
+  "Theme": {
+    "toLight": "Jasny",
+    "toDark": "Ciemny"
+  },
+  "Coordinators": {
+    "get": "SKONTAKTUJ SIĘ",
+    "title": "Koordynatorzy",
+    "desc": "Jeden kontakt dla całej uczelni oraz po jednym na każdy wydział w sprawie wyjazdów na studia, wyjazdów dydaktycznych, wyjazdów pracowników i praktyk.",
+    "eur-cor": "Uczelniany Koordynator Programu Erasmus+",
+    "building": "Budynek",
+    "room": "Pokój",
+    "study": "Wyjazdy na studia / wyjazdy nauczycieli i pracowników",
+    "intern": "Praktyki",
+    "study-intern": "Wyjazdy na studia / wyjazdy nauczycieli i pracowników oraz praktyki",
+    "weaii": "Wydział Elektrotechniki, Automatyki i Informatyki",
+    "wmibm": "Wydział Mechatroniki i Budowy Maszyn",
+    "wzimk": "Wydział Zarządzania i Modelowania Komputerowego",
+    "wbia": "Wydział Budownictwa i Architektury",
+    "wisge": "Wydział Inżynierii Środowiska, Geomatyki i Energetyki Odnawialnej",
+    "staff": "Pracownicy administracyjni",
+    "outgoings": "Wyjazdy",
+    "incomings": "Przyjazdy",
+    "dept-staff": "Dział Rozwoju Kadr i Współpracy Międzynarodowej"
+  }
+}
