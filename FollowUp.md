@@ -51,7 +51,7 @@ _Last updated: 2026-11-08_
 | Coordinators | `/students/coordinators` | ✅ Done | |
 | Incoming students | `/students/incoming` | ⬜ Not started | |
 | Outgoing students | `/students/outgoing` | ⬜ Not started | |
-| Partner universities | `/students/partner-universities` | ⬜ Not started | |
+| Partner universities | `/students/partner-universities` | ✅ Not started | |
 | Policy statement | `/about/policy` | ⬜ Not started | |
 | News | `/news` | ⬜ Not started | |
 | Photo gallery | `/gallery` | ⬜ Not started | |
@@ -59,26 +59,13 @@ _Last updated: 2026-11-08_
 | KA-171 countries | `/ka171` | ⬜ Not started | |
 | Testimonials | `/testimonials` | ⬜ Not started | |
 | Contact | `/contact` | ⬜ Not started | |
+| Short Term | `/students/outgoing/short-term` | ⬜ Not started | |
+| Studies | `/students/outgoing/studies` | ⬜ Not started | |
+| Internship | `/students/outgoing/internship` | ⬜ Not started | |
+| About | `/about` | ⬜ Not started | |
+
 
 Status legend: ⬜ Not started · 🟨 In progress · ✅ Done · 🟥 Blocked
-
----
-
-## 🐞 Open issues
-
-| Issue | Status | Owner |
-|---|---|---|
-| PL translation keys don't match EN in `Coordinators` (`outcomings`) | ⬜ | |
-| Hero "Outgoing" button links to `/students/outcoming` (typo) | ⬜ | |
-| All 4 "Get started" cards link to `/students/incoming` | ⬜ | |
-| Coordinator email typo `erasmus@tu.kiele.pl` | ⬜ | |
-| Swap `next/link` for `Link` from `@/i18n/navigation` | ⬜ | |
-| Undefined `text-text` / `text-text-2` classes → `text-fg` / `text-fg-2` | ⬜ | |
-| Hard-coded colours in `get.tsx` (broken in dark mode) | ⬜ | |
-| Pull repeated cards out into a reusable component + data file | ⬜ | |
-| Responsive layout for mobile (fixed widths, 4-card row) | ⬜ | |
-| Image alt texts (faculty logos, header logo) | ⬜ | |
-| Replace the default create-next-app `README.md` | ⬜ | |
 
 ---
 
@@ -92,7 +79,13 @@ Status legend: ⬜ Not started · 🟨 In progress · ✅ Done · 🟥 Blocked
 
 #### 2026-11-08
 - ✅ Done: Home page, Coordinators page, layout, i18n, theming
-- 🟨 In progress: —
+- 🟨 In progress: partners page, map 
+- 🟥 Blocked by: —
+- 📝 Notes: reponsive not finished
+
+#### 2026-11-18
+- ✅ Done: partners page, map
+- 🟨 In progress: responsive view
 - 🟥 Blocked by: —
 - 📝 Notes: —
 

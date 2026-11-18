@@ -80,5 +80,61 @@
     "incoming": "PRZYJEŻDŻAJĄCY",
     "outcoming": "WYJEŻDŻAJĄCY",
     "dept": "Dział Rozwoju Kadr i Współpracy Międzynarodowej"
+  },
+  "partner": {
+    "title": "KA-131 · KRAJE PROGRAMU",
+    "sub-title": "Uczelnie partnerskie",
+    "desc": "Dwustronne umowy KUT w całej Europie, uporządkowane według krajów. Nazwy nie są posortowane alfabetycznie ani według grup krajów – skorzystaj z funkcji wyszukiwania w przeglądarce (Ctrl+F).",
+    "not-listed": "Jeśli chcesz wyjechać na uczelnię, której nie ma na tej liście",
+    "step-1": "Sprawdź listę archiwalną.",
+    "step-2": "Zgłoś ją do naszego dziekanatu.",
+    "step-3": "Skontaktujemy się z wybraną uczelnią.",
+    "check": "Sprawdź, czy uczelnia ma umowę dla kodu ISCED-F odpowiadającego Twojemu kierunkowi studiów, a następnie poszukaj oferty wymiany na jej stronie internetowej lub skontaktuj się bezpośrednio z jej biurem międzynarodowym. Wypełnij formularz zgłoszeniowy i postępuj zgodnie z krokami opisanymi w sekcji Studenci wyjeżdżający → Studia/Praktyka.",
+    "isced-f-codes": "Kody ISCED-F według wydziałów",
+    "weaii": "Wydział Elektrotechniki, Automatyki i Informatyki",
+    "wmibm": "Wydział Mechatroniki i Budowy Maszyn",
+    "wzimk": "Wydział Zarządzania i Modelowania Komputerowego",
+    "wbia": "Wydział Budownictwa i Architektury",
+    "wisge": "Wydział Inżynierii Środowiska, Geomatyki i Odnawialnych Źródeł Energii",
+    "download-btn": "Pobierz pełną listę umów (.xlsx)",
+    "explore": "Przeglądaj na mapie",
+    "ask-partner": "Zainteresowany nowym partnerstwem?",
+    "ask-desc": "Instytucje, które chcą podpisać nową umowę międzyinstytucjonalną z KUT, mogą skontaktować się z naszym biurem międzynarodowym.",
+    "ask-btn": "Skontaktuj się z nami",
+    "map": {
+      "ariaLabel": "Mapa krajów partnerskich KA-131",
+      "hint": "Kliknij wyróżniony kraj na mapie, aby zobaczyć uczelnie partnerskie.",
+      "zoomIn": "Przybliż",
+      "zoomOut": "Oddal",
+      "zoomReset": "Resetuj widok",
+      "filterLabel": "Pokaż",
+      "filter": {
+        "students": "Studenci",
+        "staff": "Pracownicy",
+        "all": "Wszystko"
+      },
+      "universities": "{count, plural, one {# uczelnia} few {# uczelnie} many {# uczelni} other {# uczelni}}",
+      "clear": "Wyczyść",
+      "noMatches": "Brak umów tego rodzaju z tym krajem.",
+      "website": "Strona internetowa",
+      "contact": "Kontakt",
+      "validUntil": "Umowa ważna do {date}",
+      "cycle": "Stopień studiów",
+      "shortCycle": "Krótki cykl",
+      "personsLabel": "Miejsca",
+      "persons": "{count, plural, one {# osoba} few {# osoby} many {# osób} other {# osoby}}",
+      "perCode": "na każdy kod ISCED",
+      "durationLabel": "Łączny czas",
+      "months": "{count, plural, one {# miesiąc} few {# miesiące} many {# miesięcy} other {# miesiąca}}",
+      "days": "{count, plural, one {# dzień} other {# dni}}",
+      "types": {
+        "studentStudies": "Wyjazd studenta — studia",
+        "studentInternship": "Wyjazd studenta — praktyka",
+        "phdStudies": "Wyjazd doktoranta — studia",
+        "phdInternship": "Wyjazd doktoranta — praktyka",
+        "staffTeaching": "Wyjazd pracownika — prowadzenie zajęć",
+        "staffTraining": "Wyjazd pracownika — szkolenie"
+      }
+    }
   }
 }
