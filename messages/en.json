@@ -134,5 +134,36 @@
         "staffTraining": "Staff mobility — training"
       }
     }
+  },
+  "outgoing": {
+    "title": "FOR KUT STUDENTS",
+    "sub-title": "Outgoing students",
+    "desc": "Study or complete an internship abroad through Erasmus+ — here's how to get started.",
+    "studies": "Studies",
+    "studies-desc": "Spend one or two semesters studying at a partner university abroad. Courses taken there count towards your degree at KUT, agreed in advance through a Learning Agreement.",
+    "studies-btn": "Studies details",
+    "intern": "Internship",
+    "intern-desc": "Complete a work placement at a company, research centre or organisation abroad — from 2 to 12 months, including up to 12 months after graduation.",
+    "intern-btn": "Internship details",
+    "short": "Short-term mobility",
+    "short-desc": "A compact alternative to a full exchange — blended intensive programmes and short doctoral mobility, combining a short physical stay with a virtual component.",
+    "short-btn": "Short-term mobility details",
+    "how": "How to apply",
+    "step-1": "Check eligibility and choose a partner university",
+    "step-2": "Submit application to the recruitment committee",
+    "step-3": "Sign the Learning/Training Agreement",
+    "step-4": "Sign the Erasmus+ Grant Agreement",
+    "step-5": "Travel and begin your mobility",
+    "who": "Who can apply",
+    "p1": "Currently enrolled KUT student (bachelor's, master's, or PhD).",
+    "p2": "Completed at least the first year of study.",
+    "p3": "Good academic standing, no outstanding disciplinary issues.",
+    "p4": "Basic proficiency in the language of instruction at the host institution.",
+    "funding": "Funding",
+    "funding-desc": "Erasmus+ grants cover part of your living and travel costs abroad, based on the destination country's cost-of-living group. Students with disabilities or from disadvantaged backgrounds can apply for top-up funding.",
+    "funding-btn": "Current grant rates",
+    "ready": "Ready to go abroad?",
+    "ready-desc": "Speak to your faculty coordinator about eligible partner universities and open calls.",
+    "ready-btn": "Find your coordinator "
   }
 }

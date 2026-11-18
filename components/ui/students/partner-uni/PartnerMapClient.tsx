@@ -106,7 +106,14 @@ export default function PartnerMapClient({ countries, labels }: { countries: Cou
       { type: "FeatureCollection", features: fitTo } as GeoPermissibleObjects,
     );
     const path = geoPath(projection);
-    return allCountries.map((f) => ({ id: String(f.id), d: path(f) ?? "" })).filter((s) => s.d);
+    // Kosovo, N. Cyprus and Somaliland have no ISO id in world-atlas, so key by name
+    return allCountries
+      .map((f) => ({
+        key: f.properties.name,
+        id: f.id != null ? String(f.id) : null,
+        d: path(f) ?? "",
+      }))
+      .filter((s) => s.d);
   });
 
   /* d3-zoom wiring */
@@ -177,17 +184,17 @@ export default function PartnerMapClient({ countries, labels }: { countries: Cou
             aria-label={labels.ariaLabel}
           >
             <g transform={transform.toString()}>
-              {shapes.map(({ id, d }) => {
-                const c = byId[id];
-                if (!c) {
+              {shapes.map(({ key, id, d }) => {
+                const c = id ? byId[id] : undefined;
+                if (!c || !id) {
                   return (
-                    <path key={id} d={d} className="fill-fg-4/25 stroke-surface" strokeWidth={0.5 / transform.k} />
+                    <path key={key} d={d} className="fill-fg-4/25 stroke-surface" strokeWidth={0.5 / transform.k} />
                   );
                 }
                 const isSel = selected === id;
                 return (
                   <path
-                    key={id}
+                    key={key}
                     d={d}
                     tabIndex={0}
                     role="button"

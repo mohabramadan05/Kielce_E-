@@ -136,5 +136,36 @@
         "staffTraining": "Wyjazd pracownika — szkolenie"
       }
     }
+  },
+  "outgoing": {
+    "title": "DLA STUDENTÓW PŚk",
+    "sub-title": "Studenci wyjeżdżający",
+    "desc": "Studiuj lub odbądź praktykę za granicą w ramach programu Erasmus+ — dowiedz się, jak zacząć.",
+    "studies": "Studia",
+    "studies-desc": "Spędź jeden lub dwa semestry na studiach na zagranicznej uczelni partnerskiej. Przedmioty zaliczone za granicą są uznawane w ramach Twoich studiów na PŚk na podstawie wcześniej uzgodnionego Porozumienia o programie studiów (Learning Agreement).",
+    "studies-btn": "Szczegóły wyjazdów na studia",
+    "intern": "Praktyka",
+    "intern-desc": "Odbądź praktykę w firmie, ośrodku badawczym lub organizacji za granicą — od 2 do 12 miesięcy, także w ciągu 12 miesięcy po ukończeniu studiów.",
+    "intern-btn": "Szczegóły wyjazdów na praktykę",
+    "short": "Mobilność krótkoterminowa",
+    "short-desc": "Krótsza alternatywa dla pełnej wymiany — mieszane programy intensywne (BIP) i krótkoterminowe wyjazdy doktorantów, łączące krótki pobyt za granicą z częścią realizowaną online.",
+    "short-btn": "Szczegóły mobilności krótkoterminowej",
+    "how": "Jak aplikować",
+    "step-1": "Sprawdź, czy spełniasz warunki, i wybierz uczelnię partnerską",
+    "step-2": "Złóż wniosek do komisji rekrutacyjnej",
+    "step-3": "Podpisz Porozumienie o programie studiów/praktyki (Learning/Training Agreement)",
+    "step-4": "Podpisz umowę o dofinansowanie Erasmus+",
+    "step-5": "Wyjedź i rozpocznij swoją mobilność",
+    "who": "Kto może aplikować",
+    "p1": "Aktualny student PŚk (studia I stopnia, II stopnia lub doktoranckie).",
+    "p2": "Ukończony co najmniej pierwszy rok studiów.",
+    "p3": "Dobre wyniki w nauce i brak postępowań dyscyplinarnych.",
+    "p4": "Podstawowa znajomość języka wykładowego na uczelni przyjmującej.",
+    "funding": "Finansowanie",
+    "funding-desc": "Stypendium Erasmus+ pokrywa część kosztów utrzymania i podróży za granicą, a jego wysokość zależy od grupy kosztów utrzymania kraju docelowego. Studenci z niepełnosprawnościami lub o mniejszych szansach mogą ubiegać się o dodatkowe dofinansowanie.",
+    "funding-btn": "Aktualne stawki stypendiów",
+    "ready": "Gotowy na wyjazd za granicę?",
+    "ready-desc": "Porozmawiaj z koordynatorem wydziałowym o dostępnych uczelniach partnerskich i otwartych naborach.",
+    "ready-btn": "Znajdź swojego koordynatora "
   }
 }
