@@ -8,10 +8,10 @@ export default async function GetStarted() {
     <div className="w-full h-min bg-bg flex p-16 gap-2 justify-start flex-col items-start">
       <h1 className="text-3xl font-black">{t("get")}</h1>
       <p className="text-fg-2">{t("get-desc")}</p>
-      <div className="flex justify-between w-full mt-4">
+      <div className="grid grid-cols-4 gap-4 w-full mt-4">
         <Link
           href="/students/incoming"
-          className="group relative flex w-full max-w-[320px] flex-col rounded-3xl border-t-[3px] border-t-[#1e3a5f] bg-surface p-8 shadow-[0_4px_20px_rgba(15,23,42,0.06)] transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_10px_30px_rgba(15,23,42,0.10)] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#1e3a5f] focus-visible:ring-offset-2"
+          className="group relative flex w-full  flex-col rounded-3xl border-t-[3px] border-t-[#1e3a5f] bg-surface p-8 shadow-[0_4px_20px_rgba(15,23,42,0.06)] transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_10px_30px_rgba(15,23,42,0.10)] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#1e3a5f] focus-visible:ring-offset-2"
         >
           <div className="mb-10 flex items-start justify-between">
             <div className="flex h-16 w-16 items-center justify-center rounded-2xl transition-colors duration-300 bg-brand-tint text-brand-ink group-hover:text-brand-ink-hover">
@@ -31,7 +31,7 @@ export default async function GetStarted() {
         </Link>
         <Link
           href="/students/incoming"
-          className="group relative flex w-full max-w-[320px] flex-col rounded-3xl border-t-[3px] border-t-[#1e3a5f] bg-surface p-8 shadow-[0_4px_20px_rgba(15,23,42,0.06)] transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_10px_30px_rgba(15,23,42,0.10)] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#1e3a5f] focus-visible:ring-offset-2"
+          className="group relative flex w-full  flex-col rounded-3xl border-t-[3px] border-t-[#1e3a5f] bg-surface p-8 shadow-[0_4px_20px_rgba(15,23,42,0.06)] transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_10px_30px_rgba(15,23,42,0.10)] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#1e3a5f] focus-visible:ring-offset-2"
         >
           <div className="mb-10 flex items-start justify-between">
             <div className="flex h-16 w-16 items-center justify-center rounded-2xl transition-colors duration-300 bg-brand-tint text-brand-ink group-hover:text-brand-ink-hover">
@@ -51,7 +51,7 @@ export default async function GetStarted() {
         </Link>
         <Link
           href="/students/incoming"
-          className="group relative flex w-full max-w-[320px] flex-col rounded-3xl border-t-[3px] border-t-[#1e3a5f] bg-surface p-8 shadow-[0_4px_20px_rgba(15,23,42,0.06)] transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_10px_30px_rgba(15,23,42,0.10)] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#1e3a5f] focus-visible:ring-offset-2"
+          className="group relative flex w-full  flex-col rounded-3xl border-t-[3px] border-t-[#1e3a5f] bg-surface p-8 shadow-[0_4px_20px_rgba(15,23,42,0.06)] transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_10px_30px_rgba(15,23,42,0.10)] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#1e3a5f] focus-visible:ring-offset-2"
         >
           <div className="mb-10 flex items-start justify-between">
             <div className="flex h-16 w-16 items-center justify-center rounded-2xl transition-colors duration-300 bg-brand-tint text-brand-ink group-hover:text-brand-ink-hover">
@@ -71,7 +71,7 @@ export default async function GetStarted() {
         </Link>
         <Link
           href="/students/incoming"
-          className="group relative flex w-full max-w-[320px] flex-col rounded-3xl border-t-[3px] border-t-[#1e3a5f] bg-surface p-8 shadow-[0_4px_20px_rgba(15,23,42,0.06)] transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_10px_30px_rgba(15,23,42,0.10)] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#1e3a5f] focus-visible:ring-offset-2"
+          className="group relative flex w-full  flex-col rounded-3xl border-t-[3px] border-t-[#1e3a5f] bg-surface p-8 shadow-[0_4px_20px_rgba(15,23,42,0.06)] transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_10px_30px_rgba(15,23,42,0.10)] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#1e3a5f] focus-visible:ring-offset-2"
         >
           <div className="mb-10 flex items-start justify-between">
             <div className="flex h-16 w-16 items-center justify-center rounded-2xl transition-colors duration-300 bg-brand-tint text-brand-ink group-hover:text-brand-ink-hover">

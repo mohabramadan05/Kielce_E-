@@ -16,7 +16,7 @@ const items: NavItem[] = siteConfig.nav.map((n) =>
   );
 
   return (
-    <header className="sticky top-0 z-50 bg-bg/80 backdrop-blur border-b border-line">
+    <header className="sticky top-0 z-100 bg-bg/80 backdrop-blur border-b border-line">
       <div className="mx-auto flex h-20 max-w-360 items-center justify-between  px-4">
         <div className="flex justify-center items-center gap-4">
           <Image
