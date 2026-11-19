@@ -51,7 +51,7 @@ _Last updated: 2026-11-08_
 | Coordinators | `/students/coordinators` | ✅ Done | |
 | Incoming students | `/students/incoming` | ⬜ Not started | |
 | Outgoing students | `/students/outgoing` | ⬜ Not started | |
-| Partner universities | `/students/partner-universities` | ✅ Not started | |
+| Partner universities | `/students/partner-universities` | ✅ Done | |
 | Policy statement | `/about/policy` | ⬜ Not started | |
 | News | `/news` | ⬜ Not started | |
 | Photo gallery | `/gallery` | ⬜ Not started | |
@@ -62,7 +62,7 @@ _Last updated: 2026-11-08_
 | Short Term | `/students/outgoing/short-term` | ⬜ Not started | |
 | Studies | `/students/outgoing/studies` | ⬜ Not started | |
 | Internship | `/students/outgoing/internship` | ⬜ Not started | |
-| About | `/about` | ⬜ Not started | |
+| About | `/about` | 🟨 In progress | |
 
 
 Status legend: ⬜ Not started · 🟨 In progress · ✅ Done · 🟥 Blocked
