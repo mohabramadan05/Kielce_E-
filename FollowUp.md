@@ -62,7 +62,7 @@ _Last updated: 2026-11-08_
 | Short Term | `/students/outgoing/short-term` | ⬜ Not started | |
 | Studies | `/students/outgoing/studies` | ⬜ Not started | |
 | Internship | `/students/outgoing/internship` | ⬜ Not started | |
-| About | `/about` | ⬜ Not started | |
+| About | `/about` | 🟨 In progress | |
 
 
 Status legend: ⬜ Not started · 🟨 In progress · ✅ Done · 🟥 Blocked
@@ -103,4 +103,8 @@ Status legend: ⬜ Not started · 🟨 In progress · ✅ Done · 🟥 Blocked
 
 ### Mohamed
 **joined the Repo**
-**Working on:** —
+#### 2026-11-18
+- ✅ Done: —
+- 🟨 In progress: about
+- 🟥 Blocked by: —
+- 📝 Notes: —

@@ -1,9 +1,11 @@
-{
+  {
   "Metadata": {
     "title": "Kielce Erasmus Plus",
     "description": "Twój przewodnik po studiowaniu i życiu w Kielcach w ramach programu Erasmus+."
   },
   "Header": {
+    "overview": "O programie Erasmus+",
+    "inclusion": "Strategia włączenia społecznego",
     "toggleMenu": "Przełącz menu",
     "about": "O nas",
     "policy": "Deklaracja polityki",
@@ -61,7 +63,7 @@
     "get": "SKONTAKTUJ SIĘ",
     "title": "Koordynatorzy",
     "desc": "Jeden kontakt dla całej uczelni oraz po jednym na każdy wydział w sprawie wyjazdów na studia, wyjazdów dydaktycznych, wyjazdów pracowników i praktyk.",
-    "eur-cor": "Uczelniany Koordynator Programu Erasmus+",
+  "eur-cor": "Uczelniany Koordynator Programu Erasmus+",
     "building": "Budynek",
     "room": "Pokój",
     "study": "Wyjazdy na studia / wyjazdy nauczycieli i pracowników",
@@ -137,6 +139,55 @@
       }
     }
   },
+  "AboutPage": {
+    "eyebrow": "Politechnika Świętokrzyska",
+    "title": "O programie Erasmus+",
+    "intro": "Odkryj Erasmus+, program Unii Europejskiej, który otwiera możliwości międzynarodowej edukacji, rozwoju zawodowego i wymiany kulturowej.",
+    "explore": "Poznaj możliwości",
+    "whatLabel": "Poznaj Erasmus+",
+    "whatTitle": "Czym jest Erasmus+?",
+    "whatText1": "Erasmus+ to program Unii Europejskiej wspierający edukację, szkolenia, młodzież i sport w Europie. Oferuje studentom, nauczycielom akademickim i pracownikom uczelni możliwości zdobywania międzynarodowego doświadczenia.",
+    "whatText2": "Dzięki programowi Erasmus+ uczestnicy mogą studiować, odbywać praktyki, prowadzić zajęcia dydaktyczne lub uczestniczyć w szkoleniach za granicą. Program wspiera współpracę między instytucjami, rozwój umiejętności zawodowych i osobistych oraz wzajemne zrozumienie kultur.",
+    "periodTitle": "Okres programu Erasmus+",
+    "periodText": "Program Erasmus+ na lata 2021–2027 koncentruje się na włączeniu społecznym i różnorodności, transformacji cyfrowej, zrównoważonym rozwoju środowiskowym oraz uczestnictwie w życiu demokratycznym.",
+    "budgetLabel": "Szacowany budżet programu",
+    "billion": "mld",
+    "opportunitiesLabel": "Mobilność międzynarodowa",
+    "opportunitiesTitle": "Możliwości programu Erasmus+",
+    "opportunitiesIntro": "Erasmus+ oferuje studentom i pracownikom uczelni różne możliwości rozwijania umiejętności oraz zdobywania cennego doświadczenia międzynarodowego.",
+    "opportunities": {
+      "study": {
+        "title": "Studia za granicą",
+        "description": "Studenci mogą zrealizować część studiów na zagranicznej uczelni partnerskiej, poznać inne środowisko akademickie oraz zdobyć punkty ECTS uznawane przez uczelnię macierzystą."
+      },
+      "traineeship": {
+        "title": "Praktyki za granicą",
+        "description": "Studenci i niedawni absolwenci mogą zdobywać praktyczne doświadczenie zawodowe podczas zagranicznych praktyk w przedsiębiorstwach, organizacjach i instytucjach."
+      },
+      "staff": {
+        "title": "Mobilność pracowników",
+        "description": "Pracownicy akademiccy i administracyjni mogą uczestniczyć w zajęciach dydaktycznych lub szkoleniach za granicą, wymieniać doświadczenia i rozwijać współpracę międzynarodową."
+      },
+      "blended": {
+        "title": "Mobilność mieszana",
+        "description": "Uczestnicy mogą łączyć pobyt za granicą z nauką online i wspólnymi działaniami edukacyjnymi, korzystając z elastycznych form współpracy międzynarodowej."
+      }
+    },
+    "kutLabel": "Nasza uczelnia",
+    "kutTitle": "Erasmus+ na Politechnice Świętokrzyskiej",
+    "kutText": "Politechnika Świętokrzyska aktywnie uczestniczy w programie Erasmus+, oferując studentom i pracownikom możliwości mobilności międzynarodowej oraz współpracy z uczelniami partnerskimi.",
+    "charterText": "Uczelnia posiada Kartę Erasmusa dla Szkolnictwa Wyższego (ECHE) na okres programu 2021–2027, wspierającą współpracę międzynarodową i mobilność w szkolnictwie wyższym.",
+    "identifiers": "Identyfikatory uczelni w programie Erasmus+",
+    "documentsTitle": "Oficjalne dokumenty",
+    "documentsIntro": "Zapoznaj się z ważnymi dokumentami i zasadami dotyczącymi uczestnictwa Politechniki Świętokrzyskiej w programie Erasmus+.",
+    "documents": {
+      "charter": "Karta Erasmusa dla Szkolnictwa Wyższego",
+      "policy": "Deklaracja Polityki Erasmusa",
+      "inclusion": "Strategia włączenia społecznego i różnorodności"
+    },
+    "ctaTitle": "Poznaj nasze uczelnie partnerskie",
+    "ctaText": "Odkryj uczelnie z całego świata współpracujące z Politechniką Świętokrzyską w ramach programu Erasmus+.",
+    "ctaButton": "Zobacz uczelnie partnerskie"},
   "outgoing": {
     "title": "DLA STUDENTÓW PŚk",
     "sub-title": "Studenci wyjeżdżający",
