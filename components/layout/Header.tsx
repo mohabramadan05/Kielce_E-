@@ -20,28 +20,37 @@ export async function Header() {
 
   return (
     <header className="sticky top-0 z-100 bg-bg/80 backdrop-blur border-b border-line">
-      <div className="mx-auto flex h-20 max-w-360 items-center justify-between  px-4">
-        <div className="flex justify-center items-center gap-4">
-          <Link href={"/"}>
+      <div className="mx-auto flex h-16 md:h-20 max-w-360 items-center justify-between gap-2 px-4">
+        <div className="flex min-w-0 items-center gap-2 md:gap-4">
+          <Link href="/" className="shrink-0">
             <Image
               src={logo}
               width={0}
               height={50}
-              alt="Picture of the author"
+              alt={siteConfig.name}
+              className="h-8 md:h-12 w-auto"
             />
           </Link>
-          <span className="h-6.5 w-0.5 m-4 rounded-full bg-gray-400"></span>
-          <Link href={"/"} className="text-brand text-xl font-bold ">{siteConfig.name}</Link>
-          
-          <div className="flex flex-row items-center gap-4 ml-2">
+
+          <span className="hidden md:block h-6 w-0.5 mx-2 rounded-full bg-gray-400" />
+
+          <Link
+            href="/"
+            className="hidden sm:block min-w-0 truncate text-brand text-base md:text-xl font-bold"
+          >
+            {siteConfig.name}
+          </Link>
+
+          <div className="flex items-center gap-4">
             <NavLinks items={items} toggleLabel={t("toggleMenu")} />
           </div>
         </div>
-        <div className="flex gap-4">
+
+        <div className="flex shrink-0 items-center gap-2 md:gap-4">
           <LanguageSwitcher />
           <Link
             href="/students/outgoing"
-            className="bg-brand p-2 pl-4 pr-4 font-medium rounded-full text-cyan-50"
+            className="bg-brand px-3 py-1.5 md:px-4 md:py-2 text-sm md:text-base font-medium rounded-full text-cyan-50 whitespace-nowrap"
           >
             {t("apply")}
           </Link>

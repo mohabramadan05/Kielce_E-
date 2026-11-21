@@ -5,16 +5,16 @@ import { ArrowRight, LogOut, ExternalLink, Globe, Flag } from "lucide-react";
 export default async function GetStarted() {
   const t = await getTranslations("HomePage");
   return (
-    <div className="w-full h-min bg-surface-2 flex p-16 gap-2 justify-start flex-col items-start">
-      <h1 className="text-3xl font-black">{t("get")}</h1>
-      <p className="text-fg-2">{t("get-desc")}</p>
-      <div className="grid grid-cols-4 gap-4 w-full mt-4">
+    <div className="w-full h-min bg-surface-2 flex p-4 md:p-8 lg:p-16 gap-2 justify-start flex-col items-start">
+      <h1 className="text-2xl md:text-3xl font-black">{t("get")}</h1>
+      <p className="text-sm md:text-base text-fg-2">{t("get-desc")}</p>
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-2 md:gap-4 w-full mt-4">
         <Link
           href="/students/incoming"
           className="group relative flex w-full  flex-col rounded-3xl border-t-[3px] border-t-[#1e3a5f] bg-surface p-8 shadow-[0_4px_20px_rgba(15,23,42,0.06)] transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_10px_30px_rgba(15,23,42,0.10)] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#1e3a5f] focus-visible:ring-offset-2"
         >
-          <div className="mb-10 flex items-start justify-between">
-            <div className="flex h-16 w-16 items-center justify-center rounded-2xl transition-colors duration-300 bg-brand-tint text-brand-ink group-hover:text-brand-ink-hover">
+          <div className="mb-5 md:mb-10 flex items-start justify-between">
+            <div className="flex h-12 md:h-16 w-12 md:w-16 items-center justify-center rounded-xl md:rounded-2xl transition-colors duration-300 bg-brand-tint text-brand-ink group-hover:text-brand-ink-hover">
               <LogOut className="" />
             </div>
 
@@ -24,8 +24,8 @@ export default async function GetStarted() {
             />
           </div>
 
-          <h3 className="text-xl font-bold text-brand-ink">{t("incoming")}</h3>
-          <p className="mt-1 text-base leading-relaxed text-slate-500">
+          <h3 className="md:text-xl font-bold text-brand-ink">{t("incoming")}</h3>
+          <p className="mt-1 text-sm md:text-base leading-relaxed text-slate-500">
             {t("c1")}
           </p>
         </Link>
@@ -34,7 +34,7 @@ export default async function GetStarted() {
           className="group relative flex w-full  flex-col rounded-3xl border-t-[3px] border-t-[#1e3a5f] bg-surface p-8 shadow-[0_4px_20px_rgba(15,23,42,0.06)] transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_10px_30px_rgba(15,23,42,0.10)] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#1e3a5f] focus-visible:ring-offset-2"
         >
           <div className="mb-10 flex items-start justify-between">
-            <div className="flex h-16 w-16 items-center justify-center rounded-2xl transition-colors duration-300 bg-brand-tint text-brand-ink group-hover:text-brand-ink-hover">
+            <div className="flex h-12 md:h-16 w-12 md:w-16 items-center justify-center rounded-xl md:rounded-2xl transition-colors duration-300 bg-brand-tint text-brand-ink group-hover:text-brand-ink-hover">
               <ExternalLink />
             </div>
 
@@ -44,8 +44,8 @@ export default async function GetStarted() {
             />
           </div>
 
-          <h3 className="text-xl font-bold text-brand-ink">{t("outgoing")}</h3>
-          <p className="mt-1 text-base leading-relaxed text-slate-500">
+          <h3 className="md:text-xl font-bold text-brand-ink">{t("outgoing")}</h3>
+          <p className="mt-1 text-sm md:text-base leading-relaxed text-slate-500">
             {t("c2")}
           </p>
         </Link>
@@ -54,7 +54,7 @@ export default async function GetStarted() {
           className="group relative flex w-full  flex-col rounded-3xl border-t-[3px] border-t-[#1e3a5f] bg-surface p-8 shadow-[0_4px_20px_rgba(15,23,42,0.06)] transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_10px_30px_rgba(15,23,42,0.10)] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#1e3a5f] focus-visible:ring-offset-2"
         >
           <div className="mb-10 flex items-start justify-between">
-            <div className="flex h-16 w-16 items-center justify-center rounded-2xl transition-colors duration-300 bg-brand-tint text-brand-ink group-hover:text-brand-ink-hover">
+            <div className="flex h-12 md:h-16 w-12 md:w-16 items-center justify-center rounded-xl md:rounded-2xl transition-colors duration-300 bg-brand-tint text-brand-ink group-hover:text-brand-ink-hover">
              <Globe />
             </div>
 
@@ -64,8 +64,8 @@ export default async function GetStarted() {
             />
           </div>
 
-          <h3 className="text-xl font-bold text-brand-ink">{t("partners")}</h3>
-          <p className="mt-1 text-base leading-relaxed text-slate-500">
+          <h3 className="md:text-xl font-bold text-brand-ink">{t("partners")}</h3>
+          <p className="mt-1 text-sm md:text-base leading-relaxed text-slate-500">
             {t("c3")}
           </p>
         </Link>
@@ -74,7 +74,7 @@ export default async function GetStarted() {
           className="group relative flex w-full  flex-col rounded-3xl border-t-[3px] border-t-[#1e3a5f] bg-surface p-8 shadow-[0_4px_20px_rgba(15,23,42,0.06)] transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_10px_30px_rgba(15,23,42,0.10)] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#1e3a5f] focus-visible:ring-offset-2"
         >
           <div className="mb-10 flex items-start justify-between">
-            <div className="flex h-16 w-16 items-center justify-center rounded-2xl transition-colors duration-300 bg-brand-tint text-brand-ink group-hover:text-brand-ink-hover">
+            <div className="flex h-12 md:h-16 w-12 md:w-16 items-center justify-center rounded-xl md:rounded-2xl transition-colors duration-300 bg-brand-tint text-brand-ink group-hover:text-brand-ink-hover">
               <Flag />
             </div>
 
@@ -84,8 +84,8 @@ export default async function GetStarted() {
             />
           </div>
 
-          <h3 className="text-xl font-bold text-brand-ink">{t("ka171")}</h3>
-          <p className="mt-1 text-base leading-relaxed text-slate-500">
+          <h3 className="md:text-xl font-bold text-brand-ink">{t("ka171")}</h3>
+          <p className="mt-1 text-sm md:text-base leading-relaxed text-slate-500">
             {t("c4")}
           </p>
         </Link>

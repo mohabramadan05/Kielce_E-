@@ -4,7 +4,7 @@ import Link from "next/link";
 export default async function Hero() {
   const t = await getTranslations("outgoing");
   return (
-    <div className="w-full h-min p-16 grid grid-cols-2 gap-6 justify-start items-start bg-bg">
+    <div className="w-full h-min p-4 md:p-8 lg:p-16 grid grid-cols-1 md:grid-cols-2 gap-6 justify-start items-start bg-bg">
       <div className="flex flex-col flex-1 items-start justify-start gap-3">
         <h1 className="text-2xl text-fg font-bold">{t("who")}</h1>
         <ul className="list-disc pl-5 text-fg-2">
