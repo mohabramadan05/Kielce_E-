@@ -4,6 +4,8 @@
     "description": "Your guide to studying and living in Kielce as an Erasmus+ student."
   },
   "Header": {
+    "overview": "About Erasmus+", 
+    "inclusion": "Inclusion Strategy",
     "toggleMenu": "Toggle menu",
     "about": "About",
     "policy": "Policy Statement",
@@ -17,6 +19,7 @@
     "contact": "Contact",
     "coordinators": "Coordinators",
     "apply": "Apply Now"
+    
   },
   "Footer": {
     "bottom": "Kielce University of Technology — Erasmus+ 2026",
@@ -134,5 +137,69 @@
         "staffTraining": "Staff mobility — training"
       }
     }
-  }
+    },
+
+    
+"AboutPage": {
+  "eyebrow": "Kielce University of Technology",
+  "title": "About Erasmus+",
+  "intro": "Discover Erasmus+, the European Union programme that opens doors to international education, professional development, and cultural exchange.",
+
+  "explore": "Explore Opportunities",
+
+  "whatLabel": "Discover Erasmus+",
+  "whatTitle": "What is Erasmus+?",
+  "whatText1": "Erasmus+ is the European Union programme supporting education, training, youth, and sport in Europe. It provides opportunities for students, academic staff, and university employees to gain international experience.",
+  "whatText2": "Through Erasmus+, participants can study, complete traineeships, teach, or receive training abroad. The programme promotes cooperation between institutions, develops professional and personal skills, and encourages cultural understanding.",
+
+  "periodTitle": "Erasmus+ Programme Period",
+  "periodText": "The Erasmus+ programme for 2021–2027 focuses on inclusion and diversity, digital transformation, environmental sustainability, and participation in democratic life.",
+  "budgetLabel": "Estimated programme budget",
+  "billion": "billion",
+
+  "opportunitiesLabel": "International Mobility",
+  "opportunitiesTitle": "Erasmus+ Opportunities",
+  "opportunitiesIntro": "Erasmus+ offers different opportunities for students and university staff to develop their skills and gain valuable international experience.",
+
+  "opportunities": {
+    "study": {
+      "title": "Study Abroad",
+      "description": "Students can spend part of their studies at a partner university abroad, experience a different academic environment, and earn credits recognized by their home university."
+    },
+    "traineeship": {
+      "title": "Traineeships Abroad",
+      "description": "Students and recent graduates can gain practical work experience through international traineeships in companies, organizations, or institutions."
+    },
+    "staff": {
+      "title": "Staff Mobility",
+      "description": "Academic and administrative staff can participate in teaching or training activities abroad, exchange knowledge, and strengthen international cooperation."
+    },
+    "blended": {
+      "title": "Blended Mobility",
+      "description": "Participants can combine physical mobility abroad with online learning and collaborative activities, creating flexible international learning opportunities."
+    }
+  },
+
+  "kutLabel": "Our University",
+  "kutTitle": "Erasmus+ at Kielce University of Technology",
+  "kutText": "Kielce University of Technology actively participates in the Erasmus+ programme, providing opportunities for students and staff to take part in international mobility and cooperation with partner institutions.",
+  "charterText": "The university holds the Erasmus Charter for Higher Education (ECHE) for the 2021–2027 programme period, supporting international cooperation and mobility in higher education.",
+
+  "identifiers": "University Erasmus+ Identifiers",
+
+  "documentsTitle": "Official Documents",
+  "documentsIntro": "Explore important documents and policies related to Erasmus+ participation at Kielce University of Technology.",
+
+  "documents": {
+    "charter": "Erasmus Charter for Higher Education",
+    "policy": "Erasmus Policy Statement",
+    "inclusion": "Inclusion and Diversity Strategy"
+  },
+
+  "ctaTitle": "Explore Our Partner Universities",
+  "ctaText": "Discover universities around the world that cooperate with Kielce University of Technology through Erasmus+.",
+  "ctaButton": "View Partner Universities"
 }
+
+  }
+
