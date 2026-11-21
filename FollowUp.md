@@ -50,7 +50,7 @@ _Last updated: 2026-11-08_
 | Home | `/` | ✅ Done | |
 | Coordinators | `/students/coordinators` | ✅ Done | |
 | Incoming students | `/students/incoming` | ⬜ Not started | |
-| Outgoing students | `/students/outgoing` | ⬜ Not started | |
+| Outgoing students | `/students/outgoing` | ✅ Done | |
 | Partner universities | `/students/partner-universities` | ✅ Done | |
 | Policy statement | `/about/policy` | ⬜ Not started | |
 | News | `/news` | ⬜ Not started | |

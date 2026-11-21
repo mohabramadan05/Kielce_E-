@@ -1,11 +1,11 @@
 import { getTranslations } from "next-intl/server";
 import Link from "next/link";
-import { ArrowRight, LogOut, ExternalLink, Globe, Flag, type LucideIcon } from "lucide-react";
+import { ArrowRight, LogOut, ExternalLink, Globe, Flag } from "lucide-react";
 
 export default async function GetStarted() {
   const t = await getTranslations("HomePage");
   return (
-    <div className="w-full h-min bg-bg flex p-16 gap-2 justify-start flex-col items-start">
+    <div className="w-full h-min bg-surface-2 flex p-16 gap-2 justify-start flex-col items-start">
       <h1 className="text-3xl font-black">{t("get")}</h1>
       <p className="text-fg-2">{t("get-desc")}</p>
       <div className="grid grid-cols-4 gap-4 w-full mt-4">
@@ -24,7 +24,7 @@ export default async function GetStarted() {
             />
           </div>
 
-          <h3 className="text-xl font-bold text-slate-900">{t("incoming")}</h3>
+          <h3 className="text-xl font-bold text-brand-ink">{t("incoming")}</h3>
           <p className="mt-1 text-base leading-relaxed text-slate-500">
             {t("c1")}
           </p>
@@ -44,7 +44,7 @@ export default async function GetStarted() {
             />
           </div>
 
-          <h3 className="text-xl font-bold text-slate-900">{t("outgoing")}</h3>
+          <h3 className="text-xl font-bold text-brand-ink">{t("outgoing")}</h3>
           <p className="mt-1 text-base leading-relaxed text-slate-500">
             {t("c2")}
           </p>
@@ -64,7 +64,7 @@ export default async function GetStarted() {
             />
           </div>
 
-          <h3 className="text-xl font-bold text-slate-900">{t("partners")}</h3>
+          <h3 className="text-xl font-bold text-brand-ink">{t("partners")}</h3>
           <p className="mt-1 text-base leading-relaxed text-slate-500">
             {t("c3")}
           </p>
@@ -84,7 +84,7 @@ export default async function GetStarted() {
             />
           </div>
 
-          <h3 className="text-xl font-bold text-slate-900">{t("ka171")}</h3>
+          <h3 className="text-xl font-bold text-brand-ink">{t("ka171")}</h3>
           <p className="mt-1 text-base leading-relaxed text-slate-500">
             {t("c4")}
           </p>
