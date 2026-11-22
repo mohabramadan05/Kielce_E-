@@ -219,4 +219,19 @@
     "ready-desc": "Porozmawiaj z koordynatorem wydziałowym o dostępnych uczelniach partnerskich i otwartych naborach.",
     "ready-btn": "Znajdź swojego koordynatora "
   }
+  ,"Ka-171": {
+    "title": "MOBILNOŚĆ MIĘDZYNARODOWA",
+    "sub-title": "Kraje partnerskie KA-171",
+    "desc": "Mobilność z udziałem krajów trzecich niebędących członkami programu — wspieranie wymiany między państwami członkowskimi UE a instytucjami partnerskimi na całym świecie",
+    "countries-header": "KA 171 2024 — aktualnie dostępne", 
+    "validation-date": "Ważne do 31.07.2026",
+    "SMS":"SMS przyjazd",
+    "STA": "STA przyjazd",
+    "STA_o": "STA wyjazd",
+    "Completed": "Ukończone kohorty",
+    "Rules-header": "zasady i formularze zgłoszenieowe",
+    "Rules-form": "zasady",
+    "STA-form": "STA formularz zgłoszenieowy",
+    "STT-form": "STT formularz zgłoszenieowy"
+  }
 }

@@ -234,4 +234,19 @@
     "ready-desc": "Speak to your faculty coordinator about eligible partner universities and open calls.",
     "ready-btn": "Find your coordinator "
   }
+  ,"Ka-171": {
+    "title": "INTERNATIONAL MOBILITY",
+    "sub-title": "KA-171 partner countries",
+    "desc": "Mobility involving third countries not associated to the Programme _ supporting exchange between EU member states and partner instituations worldwide",
+    "countries-header": "KA 171 2024 _ currently available",
+    "validation-date": "Valid untill 31.07.2026",
+    "SMS":"SMS incoming",
+    "STA": "STA incoming",
+    "STA_O": "STA outgoing",
+    "Completed": "Completed cohorts",
+    "Rules-header": "Rules and application forms",
+    "Rules-form": "Rules",
+    "STA-form": "STA application form",
+    "STT-form": "STT application form"
+  }
 }
