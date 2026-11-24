@@ -15,7 +15,7 @@ export default function Hero({
   explore,
 }: HeroProps) {
   return (
-    <section className="relative overflow-hidden bg-brand px-5 py-20 text-white sm:px-8 lg:py-28">
+    <section className="relative overflow-hidden bg-[#081e33] px-5 py-20 text-white sm:px-8 lg:py-28">
       <div
         aria-hidden="true"
         className="pointer-events-none absolute -right-24 -top-36 h-96 w-96 rounded-full border border-white/15"

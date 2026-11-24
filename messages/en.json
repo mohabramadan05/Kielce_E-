@@ -4,7 +4,7 @@
     "description": "Your guide to studying and living in Kielce as an Erasmus+ student."
   },
   "Header": {
-    "overview": "About Erasmus+", 
+    "overview": "About Erasmus+",
     "inclusion": "Inclusion Strategy",
     "toggleMenu": "Toggle menu",
     "about": "About",
@@ -19,7 +19,6 @@
     "contact": "Contact",
     "coordinators": "Coordinators",
     "apply": "Apply Now"
-    
   },
   "Footer": {
     "bottom": "Kielce University of Technology — Erasmus+ 2026",
@@ -137,73 +136,58 @@
         "staffTraining": "Staff mobility — training"
       }
     }
-    },
-
-    
-"AboutPage": {
-  "eyebrow": "Kielce University of Technology",
-  "title": "About Erasmus+",
-  "intro": "Discover Erasmus+, the European Union programme that opens doors to international education, professional development, and cultural exchange.",
-
-  "explore": "Explore Opportunities",
-
-  "whatLabel": "Discover Erasmus+",
-  "whatTitle": "What is Erasmus+?",
-  "whatText1": "Erasmus+ is the European Union programme supporting education, training, youth, and sport in Europe. It provides opportunities for students, academic staff, and university employees to gain international experience.",
-  "whatText2": "Through Erasmus+, participants can study, complete traineeships, teach, or receive training abroad. The programme promotes cooperation between institutions, develops professional and personal skills, and encourages cultural understanding.",
-
-  "periodTitle": "Erasmus+ Programme Period",
-  "periodText": "The Erasmus+ programme for 2021–2027 focuses on inclusion and diversity, digital transformation, environmental sustainability, and participation in democratic life.",
-  "budgetLabel": "Estimated programme budget",
-  "billion": "billion",
-
-  "opportunitiesLabel": "International Mobility",
-  "opportunitiesTitle": "Erasmus+ Opportunities",
-  "opportunitiesIntro": "Erasmus+ offers different opportunities for students and university staff to develop their skills and gain valuable international experience.",
-
-  "opportunities": {
-    "study": {
-      "title": "Study Abroad",
-      "description": "Students can spend part of their studies at a partner university abroad, experience a different academic environment, and earn credits recognized by their home university."
-    },
-    "traineeship": {
-      "title": "Traineeships Abroad",
-      "description": "Students and recent graduates can gain practical work experience through international traineeships in companies, organizations, or institutions."
-    },
-    "staff": {
-      "title": "Staff Mobility",
-      "description": "Academic and administrative staff can participate in teaching or training activities abroad, exchange knowledge, and strengthen international cooperation."
-    },
-    "blended": {
-      "title": "Blended Mobility",
-      "description": "Participants can combine physical mobility abroad with online learning and collaborative activities, creating flexible international learning opportunities."
-    }
   },
-
-  "kutLabel": "Our University",
-  "kutTitle": "Erasmus+ at Kielce University of Technology",
-  "kutText": "Kielce University of Technology actively participates in the Erasmus+ programme, providing opportunities for students and staff to take part in international mobility and cooperation with partner institutions.",
-  "charterText": "The university holds the Erasmus Charter for Higher Education (ECHE) for the 2021–2027 programme period, supporting international cooperation and mobility in higher education.",
-
-  "identifiers": "University Erasmus+ Identifiers",
-
-  "documentsTitle": "Official Documents",
-  "documentsIntro": "Explore important documents and policies related to Erasmus+ participation at Kielce University of Technology.",
-
-  "documents": {
-    "charter": "Erasmus Charter for Higher Education",
-    "policy": "Erasmus Policy Statement",
-    "inclusion": "Inclusion and Diversity Strategy"
+  "AboutPage": {
+    "eyebrow": "Kielce University of Technology",
+    "title": "About Erasmus+",
+    "intro": "Discover Erasmus+, the European Union programme that opens doors to international education, professional development, and cultural exchange.",
+    "explore": "Explore Opportunities",
+    "whatLabel": "Discover Erasmus+",
+    "whatTitle": "What is Erasmus+?",
+    "whatText1": "Erasmus+ is the European Union programme supporting education, training, youth, and sport in Europe. It provides opportunities for students, academic staff, and university employees to gain international experience.",
+    "whatText2": "Through Erasmus+, participants can study, complete traineeships, teach, or receive training abroad. The programme promotes cooperation between institutions, develops professional and personal skills, and encourages cultural understanding.",
+    "periodTitle": "Erasmus+ Programme Period",
+    "periodText": "The Erasmus+ programme for 2021–2027 focuses on inclusion and diversity, digital transformation, environmental sustainability, and participation in democratic life.",
+    "budgetLabel": "Estimated programme budget",
+    "billion": "billion",
+    "opportunitiesLabel": "International Mobility",
+    "opportunitiesTitle": "Erasmus+ Opportunities",
+    "opportunitiesIntro": "Erasmus+ offers different opportunities for students and university staff to develop their skills and gain valuable international experience.",
+    "opportunities": {
+      "study": {
+        "title": "Study Abroad",
+        "description": "Students can spend part of their studies at a partner university abroad, experience a different academic environment, and earn credits recognized by their home university."
+      },
+      "traineeship": {
+        "title": "Traineeships Abroad",
+        "description": "Students and recent graduates can gain practical work experience through international traineeships in companies, organizations, or institutions."
+      },
+      "staff": {
+        "title": "Staff Mobility",
+        "description": "Academic and administrative staff can participate in teaching or training activities abroad, exchange knowledge, and strengthen international cooperation."
+      },
+      "blended": {
+        "title": "Blended Mobility",
+        "description": "Participants can combine physical mobility abroad with online learning and collaborative activities, creating flexible international learning opportunities."
+      }
+    },
+    "kutLabel": "Our University",
+    "kutTitle": "Erasmus+ at Kielce University of Technology",
+    "kutText": "Kielce University of Technology actively participates in the Erasmus+ programme, providing opportunities for students and staff to take part in international mobility and cooperation with partner institutions.",
+    "charterText": "The university holds the Erasmus Charter for Higher Education (ECHE) for the 2021–2027 programme period, supporting international cooperation and mobility in higher education.",
+    "identifiers": "University Erasmus+ Identifiers",
+    "documentsTitle": "Official Documents",
+    "documentsIntro": "Explore important documents and policies related to Erasmus+ participation at Kielce University of Technology.",
+    "documents": {
+      "charter": "Erasmus Charter for Higher Education",
+      "policy": "Erasmus Policy Statement",
+      "inclusion": "Inclusion and Diversity Strategy"
+    },
+    "ctaTitle": "Explore Our Partner Universities",
+    "ctaText": "Discover universities around the world that cooperate with Kielce University of Technology through Erasmus+.",
+    "ctaButton": "View Partner Universities"
   },
-
-  "ctaTitle": "Explore Our Partner Universities",
-  "ctaText": "Discover universities around the world that cooperate with Kielce University of Technology through Erasmus+.",
-  "ctaButton": "View Partner Universities"
-}
-
-  
-
-  ,"outgoing": {
+  "outgoing": {
     "title": "FOR KUT STUDENTS",
     "sub-title": "Outgoing students",
     "desc": "Study or complete an internship abroad through Erasmus+ — here's how to get started.",
@@ -233,5 +217,395 @@
     "ready": "Ready to go abroad?",
     "ready-desc": "Speak to your faculty coordinator about eligible partner universities and open calls.",
     "ready-btn": "Find your coordinator "
+  },
+"PolicyPage": {
+  "eyebrow": "Erasmus+ Programme",
+  "title": "Policy Statement",
+  "intro": "The internationalisation strategy, institutional objectives and Erasmus+ commitments of Kielce University of Technology.",
+
+  "universityTitle": "About Kielce University of Technology",
+  "universityHistory": "The Kielce University of Technology is a leading university in the Świętokrzyskie Voivodeship and the only technical university in the Świętokrzyskie Voivodeship with such a long history.",
+  "universityOrigins": "Formally established in 1974, its origins date back to 1951, when it was part of the Kielce-Radom Evening Engineering School, offering students the opportunity to earn a bachelor's degree in mechanical engineering.",
+
+  "originsLabel": "Origins",
+  "originsYear": "1951",
+  "originsDescription": "Kielce-Radom Evening Engineering School",
+  "establishmentLabel": "Formal establishment",
+  "establishmentYear": "1974",
+  "establishmentDescription": "Kielce University of Technology",
+
+  "tasksTitle": "Main Tasks of the University",
+  "tasksDescription": "The main tasks of the Kielce University of Technology are defined in the University Statute.",
+  "tasks": {
+    "research": "Conducting scientific research, development work, providing research services and transferring technology to the economy.",
+    "studentEducation": "Educating students during diploma, postgraduate and other forms of education.",
+    "doctoralEducation": "Providing education for doctoral students.",
+    "staffTraining": "Educating and offering training opportunities to University staff.",
+    "accessibility": "Creating the necessary conditions for the full participation of people with disabilities in the education and research process.",
+    "civicResponsibility": "Educating students with a sense of responsibility for the Polish state, national tradition, strengthening the principles of democracy and respect for human rights.",
+    "physicalEducation": "Creating conditions for the development of students' physical culture.",
+    "knowledgeSharing": "Disseminating the achievements of science and technology by collecting and making available library and information resources.",
+    "communityEngagement": "Carrying out activities for the local community and the region."
+  },
+
+  "strategyTitle": "University Development Strategy 2015–2025",
+  "strategyDescription": "The most important assumptions of the University Development Strategy formulated for 2015–2025 include:",
+  "strategyGoals": {
+    "studentNumbers": "Maintaining the number of students at a level corresponding to the teaching potential of the Kielce University of Technology and the needs of the labor market.",
+    "researchDevelopment": "Intensification of development activities in the area of science and research resulting from the implementation of projects co-financed by the European Union.",
+    "europeanCompetitiveness": "Strengthening competitiveness in the European higher education space in the areas of education, science and research.",
+    "academicPartnerships": "Undertaking tasks aimed at expanding cooperation between the Kielce University of Technology and universities and research units with a similar profile of activity, aimed at cooperation consistent with the interests of the Kielce University of Technology.",
+    "internationalPosition": "Strengthening the position of the Kielce University of Technology as an international university."
+  },
+
+  "internationalisationTitle": "Internationalisation and Cooperation",
+  "internationalisation": {
+    "multiculturalCommunity": "Kielce University of Technology (PŚk) continually strives to increase the importance of internationalization among its students, as the development of a multicultural student and staff community is crucial for the University.",
+    "globalEducation": "Kielce University of Technology provides an educational experience that prepares students for global political and social environments, including through the development of international alliances and partnerships aimed at capacity building, education, and entrepreneurship, introducing study programs that meet international market demand, and raising the University's profile and importance worldwide.",
+    "internationalCooperation": "International cooperation has always been a significant value for the Kielce University of Technology, both with European Union countries and non-EU countries.",
+    "erasmusPartnerships": "Among the benefits of the LLP-Erasmus program are the establishment of relationships with 90 of the most important universities in 20 European countries.",
+    "researchNetworks": "The Kielce University of Technology's internationalization is also achieved through the inclusion of its academic staff in international research and scientific-educational networks both in Europe and globally, such as CEEPUS and DAAD.",
+    "europeanIntegration": "The development of internationalization, as well as the participation of students and faculty in educational and research structures at the European level, constitute a significant part of the University's Strategy."
+  },
+
+  "erasmusTitle": "Participation in Erasmus+ 2021–2027",
+  "erasmus": {
+    "programmeDevelopment": "Participation in the 2021–2027 Programme ensures the sustainable development of activities initiated and implemented in recent years. Thanks to projects like these, the Kielce University of Technology is constantly developing and increasing its international standing.",
+    "digitalModernisation": "Moreover, the University's participation in the Programme encourages the introduction of increasingly new modernisation processes, including various technological solutions in which the primary idea is to enrich e-learning tools, while the main goal of internationalisation is to increase the reach and mobility of employees.",
+    "innovativeTeaching": "The Kielce University of Technology continually supports its academic staff in their pursuit of ever newer and more innovative teaching methods.",
+    "researchOpportunities": "Promoting research is crucial, including through research trips, which provide opportunities to learn about project-based courses in specific areas of specialization and their relevance to professional requirements and skills in various countries.",
+    "staffMobility": "Participation in the Erasmus+ programme provides administrative and teaching staff with the opportunity to achieve these goals through mobility.",
+    "culturalExchange": "The University continually promotes participation in the staff mobility programme, which provides support to participants on both a personal and professional level by offering opportunities to share knowledge and explore new cultures.",
+    "programmePromotion": "The programme is promoted for university staff through personal contact, a website containing support materials, and Faculty Programme Coordinators."
+  },
+
+  "mobilityTitle": "Student Mobility and Educational Quality",
+  "mobility": {
+    "educationQuality": "The university strives to ensure the highest quality of education for both Polish and international students. The best measure of the effectiveness of the Kielce University of Technology's efforts in international cooperation and teaching is the success of its students, both academic and professional.",
+    "exchangeOpportunities": "The University strives to ensure that the international exchange programme is even more attractive to students, and that the experience gained during studies abroad provides an increasing number of opportunities.",
+    "internationalAccess": "Furthermore, the Kielce University of Technology offers the opportunity to participate in European and international exchange programmes to all students, including incoming full-time international students.",
+    "universityCooperation": "Kielce University of Technology strives to increase its international standing, and the growing importance of international cooperation undoubtedly influences this process. Therefore, it is crucial to continuously develop cooperation with foreign universities.",
+    "studentDevelopment": "In today's era of dynamic change and the rapid development of cutting-edge technologies, the University strives to ensure that students have the opportunity to create the best possible future on the international stage.",
+    "mobilityBenefits": "Student mobility offers a unique opportunity to conduct research and explore new environments in dynamic international social, cultural, and business life."
+  },
+
+  "inclusionTitle": "Inclusion, Diversity and Modernisation",
+  "inclusion": {
+    "multiculturalEnvironment": "The University is building a multicultural environment, which translates into recognition and understanding of emerging differences among both students and staff.",
+    "financialSupport": "It is significant that individuals with limited income can also participate in the Programme, as higher financial support is available for such individuals.",
+    "technologicalProgress": "Modernisation is at the forefront of global policies, and this entails technological advances that increase competitiveness and improve the quality of education.",
+    "inclusiveFuture": "Ultimately, the University's priority is to prepare students to build a scientific tradition and create a culturally diverse future with many new challenges and opportunities."
   }
+},
+
+"InclusionPage": {
+  "eyebrow": "Erasmus+ Programme",
+  "title": "Inclusion Strategy",
+  "subtitle": "Creating equal opportunities and removing barriers to international education and mobility.",
+
+  "introductionTitle": "Introduction",
+  "introductionText": "The Kielce University of Technology's Inclusion and Equal Opportunities Strategy was created to ensure equal opportunities for all students and staff, especially those with fewer opportunities. This strategy encompasses activities that support inclusion within international mobility programs such as Erasmus+ and other university initiatives. Our goal is to promote diversity and inclusion and eliminate barriers that may hinder participation in education and mobility programs.",
+
+  "objectivesTitle": "Strategy Objectives",
+  "objectivesIntro": "Our main goals are:",
+  "objectives": {
+    "participation": {
+      "title": "Increase participation",
+      "description": "Increasing the participation of students with fewer opportunities (e.g. people with economic, health, or disability difficulties) in Erasmus+ mobility programmes by 25% over the next 5 years."
+    },
+    "access": {
+      "title": "Improve access",
+      "description": "Increasing access to international programs by removing financial, informational and logistical barriers."
+    },
+    "equalOpportunities": {
+      "title": "Ensure equal opportunities",
+      "description": "Ensuring equal opportunities in all aspects of academic life, including study trips and internships abroad."
+    },
+    "awareness": {
+      "title": "Raise awareness",
+      "description": "Raising awareness of inclusion and diversity among students and university staff through training, workshops and information campaigns."
+    }
+  },
+
+  "targetsTitle": "Target Groups",
+  "targetsIntro": "This strategy is aimed at:",
+  "targets": {
+    "financialDifficulties": "People with financial difficulties who may have limited access to mobility programmes due to cost.",
+    "disabilities": "Students and employees with disabilities.",
+    "minorities": "People from social, cultural or ethnic minorities.",
+    "healthConditions": "People with health problems who may require special support during mobility.",
+    "familyResponsibilities": "Students caring for children or family members."
+  },
+
+  "activitiesTitle": "Activities and Initiatives",
+  "activitiesIntro": "The university implements the following measures to support inclusive participation:",
+  "initiatives": {
+    "financialSupport": {
+      "title": "Financial support",
+      "description": "Providing additional financial support to students with fewer opportunities benefiting from Erasmus+ mobility programmes, such as scholarships to cover additional costs related to mobility."
+    },
+    "advisorySupport": {
+      "title": "Individual advisory support",
+      "description": "Providing access to advisors specializing in the needs of students with fewer opportunities. Each student can benefit from individual consultations about travel options, preparation for departure, and support during their stay abroad."
+    },
+    "accessibleInfrastructure": {
+      "title": "Adaptation of infrastructure and services",
+      "description": "The university ensures that the infrastructure is fully adapted to the needs of people with disabilities."
+    },
+    "inclusionTraining": {
+      "title": "Inclusion training and workshops",
+      "description": "Organizing workshops and training for employees and students on diversity, inclusion, and anti-discrimination. The goal is to increase awareness and knowledge of the needs of people with fewer opportunities."
+    },
+    "organisationCooperation": {
+      "title": "Cooperation with non-governmental and student organizations",
+      "description": "Collaboration with organizations supporting people with disabilities, student organizations, and local NGOs promoting equality and social integration."
+    },
+    "informationAccess": {
+      "title": "Easier access to information",
+      "description": "Information on the website regarding support for students with fewer opportunities, including rules for obtaining additional financial support, guides to partner universities, and other resources."
+    }
+  },
+
+  "monitoringTitle": "Monitoring and Evaluation",
+  "monitoringText": "To assess the effectiveness of its inclusion strategy, the university will regularly conduct satisfaction surveys and analyze participation rates of people with fewer opportunities in mobility programs. The results of these evaluations will be included in annual reports and will serve as a basis for further improvements.",
+
+  "summaryTitle": "Summary",
+  "summaryText": "Kielce University of Technology strives to create an academic environment that supports diversity and inclusion. Our inclusion strategy is a key element of this effort and reflects our commitment to ensuring that every student, regardless of their background, can fully benefit from the opportunities offered by Erasmus+ and other international initiatives.",
+
+  "documentTitle": "Official Inclusion Strategy Document",
+  "documentText": "Download the official Inclusion Strategy document of Kielce University of Technology.",
+  "download": "Download PDF",
+  "documentLanguage": "(This document is in Polish)"
+},
+
+
+"NewsPage": {
+  "eyebrow": "Kielce University of Technology",
+  "title": "Erasmus+ News",
+  "intro": "Discover the latest Erasmus+ activities, international exchanges, university events, and opportunities at Kielce University of Technology.",
+  "featured": "Featured News",
+  "latest": "Latest News",
+  "readMore": "Read full article",
+  "viewAll": "View all news",
+  "emptyTitle": "No news available",
+  "emptyDescription": "There are currently no news articles to display. Please check back soon."
+},
+
+"NewsArticles": {
+  "huelvaProgramme": {
+    "title": "Erasmus+ Blended Intensive Programme at Universidad de Huelva",
+    "description": "Students from Kielce University of Technology participated in an international Erasmus+ programme in Spain, focusing on sustainable mining, digital technologies, and automated solutions.",
+    "content": [
+      "Students from the Faculty of Mechatronics and Mechanical Engineering at Kielce University of Technology participated in the Erasmus+ Blended Intensive Programme at Universidad de Huelva in Spain from September 21 to 25, 2026.",
+      "The participating students were Gabriela Herbuś, Dawid Giemza, Rafał Gładysiński, Karol Rokita, and Krzysztof Szfugier.",
+      "The programme was organised under the theme Sustainable Mining Projects: Integrating Digital and Automated Solutions with Economic, Social and Environmental Considerations.",
+      "The University of Huelva welcomed students and academic staff from Germany, Estonia, Portugal, and Poland. Throughout the week, participants attended lectures, laboratory sessions, meetings, and discussions focused on modern engineering solutions.",
+      "Students also visited mines and industrial facilities, where they learned about the practical application of sustainable mining technologies, digitalisation, and automation.",
+      "The programme provided valuable knowledge about environmental and economic aspects of mining, automated processes, and innovative technological solutions.",
+      "Students who successfully completed the programme received 3 ECTS credits, which will be included in their diploma supplements. More importantly, they gained valuable experience working and learning in an international environment.",
+      "Kielce University of Technology has maintained a long-standing partnership with Universidad de Huelva. The cooperation has developed through the efforts of Dr. Sławomir Błasiak, Professor at Kielce University of Technology, and Professor Domingo Javier Carvajal Gómez from Universidad de Huelva.",
+      "This cooperation also resulted in students from Huelva participating in the Blended Intensive Programme Model Manufacturing Methods – Advanced Manufacturing Methods, Additive Manufacturing and Reverse Engineering, organised at Kielce University of Technology in May 2026.",
+      "Students interested in similar international opportunities are encouraged to explore the [University of Huelva website](https://www.uhu.es/) and learn more about [international Erasmus+ activities at the university](https://www.uhu.es/internacionalizacion/).",
+      "Participation in short intensive programmes or semester-long Erasmus+ exchanges allows students to develop their professional skills, experience new cultures, gain confidence, and build lasting international friendships."
+    ]
+  },
+
+  "internationalStart": {
+    "title": "International Start at Kielce University of Technology: Orientation Days 2026",
+    "description": "Kielce University of Technology welcomed international students during Orientation Days 2026, featuring academic meetings, cultural workshops, and activities around Kielce.",
+    "content": [
+      "From September 28 to 30, 2026, Kielce University of Technology organised Orientation Days to welcome international students and help them adapt to their new academic environment.",
+      "The event was coordinated by the Department of Academic Staff Development and International Cooperation and brought together students from partner universities in Spain, Turkey, Italy, Portugal, Uzbekistan, and Jordan.",
+      "New students were welcomed by Erasmus+ programme coordinators and Polish student volunteers, who acted as mentors and helped them become familiar with university life.",
+      "One of the traditional highlights of the opening day was a group photograph taken in the Rector's Office building.",
+      "The Orientation Days programme introduced participants to the university's structure, study regulations, student residences, and modern campus facilities.",
+      "An important part of the event was the Cultural Thermometer workshop. During these interactive sessions, international students learned about Polish traditions, local customs, and everyday life in Kielce.",
+      "The programme also included a guided tour of Kielce. Students visited the Market Square, the famous wild boar sculpture, Sienkiewicza Street, and Castle Hill.",
+      "At the [Institute of Design in Kielce](https://idkielce.pl/), participants joined ceramic painting workshops, where they decorated plates and created souvenirs from their visit.",
+      "Students also visited the [Centre for Patriotic and Civic Thought](https://ompio.pl/), where they explored an exhibition about important events in the history of Poland and the Świętokrzyskie region.",
+      "The three-day programme concluded with an evening integration meeting. Students from different countries had an opportunity to share their first impressions, meet new friends, and strengthen their international connections.",
+      "You can see more photographs from the event in the [Orientation Days 2026 photo gallery](https://www.flickr.com/photos/203673294@N06/albums/72177720335911310).",
+      "Orientation Days helped international students feel more comfortable in their new environment and provided a positive start to their Erasmus+ experience at Kielce University of Technology."
+    ]
+  },
+
+  "orientationInvitation": {
+    "title": "Erasmus+ Orientation Days 2026",
+    "description": "An invitation to incoming Erasmus+ students to discover Kielce University of Technology, learn about student life in Poland, and meet fellow international students.",
+    "content": [
+      "Kielce University of Technology warmly welcomed incoming Erasmus+ students at the beginning of the 2026/2027 academic year.",
+      "The university invited international students to participate in Orientation Days, a series of meetings designed to introduce them to the university, the city of Kielce, and everyday life in Poland.",
+      "The programme was intended to help students become familiar with the academic environment, university facilities, and opportunities available during their Erasmus+ exchange.",
+      "Orientation Days also provided opportunities to meet other international students, discover Polish culture, and develop friendships with people from different countries.",
+      "Students were encouraged to participate in the planned activities and make the most of their international experience.",
+      "The university expressed its hope that studying in Kielce would provide valuable academic knowledge, cultural experiences, personal development, and unforgettable memories.",
+      "For more information about the university and its programmes, visit the [Kielce University of Technology website](https://international.tu.kielce.pl/).",
+      "We look forward to welcoming Erasmus+ students and helping them begin an exciting new chapter of their academic journey."
+    ]
+  },
+
+  "ka171TeachingStaff": {
+    "title": "Erasmus+ KA171: Visit of International Teaching Staff",
+    "description": "Academic staff from partner universities in Algeria, Georgia, and Uzbekistan visited Kielce University of Technology to participate in teaching activities and strengthen international cooperation.",
+    "content": [
+      "The Erasmus+ programme for 2021–2027 supports international cooperation between universities in Europe and partner institutions in third countries not associated with the programme.",
+      "Through Erasmus+ KA171, Kielce University of Technology develops academic partnerships and educational exchanges with universities in Algeria, China, Georgia, India, Jordan, Malaysia, Ukraine, and Uzbekistan.",
+      "From June 15 to 19, 2026, Kielce University of Technology welcomed academic staff from the University of Ain Temouchent in Algeria, Kutaisi International University in Georgia, and Jizzakh Polytechnic Institute in Uzbekistan.",
+      "During their visit, the international lecturers had the opportunity to discover Kielce, explore the university campus, and visit selected research laboratories.",
+      "The visiting academics also delivered lectures to students at the Faculty of Mechatronics and Mechanical Engineering and the Faculty of Electrical Engineering, Automatic Control and Computer Science.",
+      "These teaching activities allowed students to learn from international academics, explore different scientific perspectives, and gain a broader understanding of their fields of study.",
+      "The visit also created opportunities for university staff to exchange knowledge, discuss educational approaches, and explore future cooperation.",
+      "The programme builds on existing Erasmus+ KA171 agreements and previous student exchanges with partner institutions.",
+      "International academic mobility strengthens relationships between universities and contributes to the development of education, scientific research, and cultural understanding.",
+      "More information about international higher education cooperation is available on the [European Commission Erasmus+ website](https://erasmus-plus.ec.europa.eu/)."
+    ]
+  }
+},
+
+"ContactPage": {
+  "eyebrow": "Kielce University of Technology",
+  "title": "Contact & How to Get to KUT",
+  "intro": "Find our Erasmus+ office, explore the university campus, and discover useful transport options for your journey to Kielce.",
+
+  "addressTitle": "University Address",
+  "address": "Kielce University of Technology\nal. Tysiąclecia Państwa Polskiego 7\n25-314 Kielce, Poland",
+
+  "departmentTitle": "Department of Staff Development and International Cooperation",
+
+  "travelTitle": "Getting to Kielce",
+  "travelDescription": "If you are arriving in Poland by plane, you can continue your journey to Kielce by train or bus. KOLEO provides train timetables and online ticket purchases for journeys across Poland.",
+  "trainLabel": "Main railway station",
+  "trainStation": "Kielce Główne",
+
+  "campusTitle": "Campus Map",
+  "campusDescription": "Explore Kielce University of Technology's campus and find university buildings and facilities.",
+  "openMap": "View Full Campus Map",
+
+  "universityStopLabel": "Nearest bus stop to the university",
+  "universityStop": "WARSZAWSKA POLITECHNIKA",
+  "dormitoryStopLabel": "Nearest bus stop to the dormitories",
+  "dormitoryStop": "AL. SOLIDARNOŚCI / TYSIĄCLECIA PP.",
+
+  "ticketTitle": "Important Information About Bus Tickets",
+  "ticketNote": "Until you receive your Polish student ID card, buy a regular full-price ticket rather than a reduced student ticket unless you have another valid document proving your eligibility for a discount.",
+
+  "appsTitle": "Useful Transport Applications",
+  "appsIntro": "These applications can help you travel around Kielce, check public transport connections, and book a ride.",
+
+  "appStoreLabel": "Download on the App Store",
+  "googlePlayLabel": "Get it on Google Play",
+
+  "apps": {
+    "jakdojade": {
+      "description": "Plan public transport routes, check departure times and find bus or train connections. Tickets can also be purchased through the application where supported."
+    },
+    "bolt": {
+      "description": "Book a ride using your smartphone. Enter your destination, check the estimated fare and choose an available payment method."
+    },
+    "uber": {
+      "description": "Request a ride by entering your pickup point and destination. View available ride options, estimated prices and payment methods."
+    }
+  },
+
+  "samsungTitle": "Samsung Galaxy Store",
+  "samsungDescription": "Samsung users can browse Galaxy Store for compatible applications."
+},
+
+
+"ApplicationProcessPage": {
+  "eyebrow": "Erasmus+ Incoming Students",
+  "title": "Application Process",
+  "intro": "Follow the steps to apply for a study period at Kielce University of Technology, from nomination by your home university to the completion of your mobility.",
+  "scope": "This procedure concerns Erasmus+ student international mobility involving third countries not associated with the programme. Other incoming students may have different conditions.",
+
+  "stepsTitle": "How to Apply",
+  "stepsSubtitle": "The application process starts at your home university. After nomination, the next steps are coordinated with Kielce University of Technology.",
+
+  "general": {
+    "title": "General Information",
+    "eligibility": "Applicants must be officially enrolled at a partner university and must have completed at least the first year of their bachelor's studies by the time they arrive at KUT.",
+    "academicRecognition": "The study period at Kielce University of Technology should be academically recognised by the student's home university.",
+    "programmeRules": "Mobility is organised according to the [Erasmus+ Programme Guide](https://erasmus-plus.ec.europa.eu/erasmus-programme-guide) and the guidelines of Poland's National Agency, the [Foundation for the Development of the Education System](https://www.frse.org.pl/)."
+  },
+
+  "qualification": {
+    "title": "Qualification at Your Home University",
+    "homeUniversity": "The selection process takes place at the student's home university according to its own procedures and the requirements of the [Erasmus+ Programme Guide](https://erasmus-plus.ec.europa.eu/erasmus-programme-guide).",
+    "englishLevel": "Applicants must demonstrate English language competence at a minimum B1 level under the Common European Framework of Reference for Languages (CEFR). The home university is responsible for checking language proficiency."
+  },
+
+  "nomination": {
+    "title": "Student Nomination",
+    "procedure": "The partner university must officially nominate the student by sending an email to [erasmus@tu.kielce.pl](mailto:erasmus@tu.kielce.pl).",
+    "requiredDetails": "The nomination email must include the student's first name, surname, gender, email address and field of study."
+  },
+
+  "registration": {
+    "title": "Registration After Nomination",
+    "acceptanceEmail": "Once nominated, the student receives a welcome or acceptance email from Kielce University of Technology containing instructions and access details for the [IRK Registration Portal](https://irk.usos.tu.kielce.pl/).",
+    "irkAccount": "The student must register through the [IRK Registration Portal](https://irk.usos.tu.kielce.pl/) and submit an Erasmus+ application to KUT. For additional assistance, consult the [Incoming Students Guidelines](/en/students/incoming)."
+  },
+
+  "beforeArrival": {
+    "title": "Documents and Preparation Before Arrival",
+    "insurance": "Obtain valid health insurance and upload a scan of the insurance policy to your application in the [IRK Registration Portal](https://irk.usos.tu.kielce.pl/).",
+    "learningAgreement": "Prepare the Learning Agreement in consultation with the [Erasmus+ Faculty Coordinators](/en/students/coordinators) at Kielce University of Technology.",
+    "approval": "The Learning Agreement must be approved by the responsible representatives at both the home university and KUT. The approved document must be uploaded to the student's [IRK account](https://irk.usos.tu.kielce.pl/).",
+    "acceptanceLetter": "An Acceptance Letter is issued by the [Erasmus+ Faculty Coordinators](/en/students/coordinators) and made available in the student's [IRK account](https://irk.usos.tu.kielce.pl/) before arrival. It may be used for visa purposes when required.",
+    "bankDetails": "Provide your bank account information so the Erasmus+ grant agreement can be prepared after the Learning Agreement has been approved. You can consult the [Grant Agreement Sample](https://erasmus.tu.kielce.pl/wp-content/uploads/2025/02/zalacznik-6-umowa-student-2023-en-2.docx).",
+    "financialForm": "Complete the [Information for Financial and Administrative Purposes form](https://erasmus.tu.kielce.pl/wp-content/uploads/2024/01/SMS-incoming-application-form_KUT-info-FINANCIAL.docx) and submit it to the university's International Cooperation Department.",
+    "grantSignature": "The grant agreement must be signed by the student and a KUT representative. It should be signed before the mobility period starts, although signing immediately after arrival may be accepted."
+  },
+
+  "agreementTitle": "Grant Agreement and Mobility Rules",
+
+  "agreement": {
+    "duration": {
+      "title": "Mobility Duration",
+      "description": "According to the referenced procedure, the minimum study mobility duration is 3 months, with a maximum funded stay of 5 months. For incomplete months, the grant is calculated proportionally using 1/30 of the monthly amount per day."
+    },
+    "funding": {
+      "title": "Monthly Grant and Travel Support",
+      "description": "The referenced procedure specifies a grant of EUR 800 per month for incoming students covered by this scheme. Additional travel support is calculated according to the distance using the [European Commission Distance Calculator](https://erasmus-plus.ec.europa.eu/resources-and-tools/distance-calculator)."
+    },
+    "payments": {
+      "title": "Grant Payments",
+      "description": "The referenced procedure states that 90% of the grant is paid within 30 days after both parties sign the Grant Agreement. The remaining 10% is paid within 20 days after the required online EU survey has been received at the end of the mobility."
+    },
+    "changes": {
+      "title": "Changes to the Learning Agreement",
+      "description": "If a study programme cannot be carried out as originally agreed for reasons beyond the student's control, the Learning Agreement may be amended by adding or removing subjects."
+    },
+    "changesApproval": {
+      "title": "Approval of Changes",
+      "description": "The referenced procedure requires changes to be approved by both universities within one month from the start of classes. The student must complete the During the Mobility part of the Learning Agreement, obtain approval from the home university and then from the relevant [KUT Faculty Coordinator](/en/students/coordinators). Unapproved changes may lead to academic non-recognition or repayment obligations."
+    }
+  },
+
+  "fundingNote": "The grant amounts, payment schedule and mobility durations above are taken from the previous university procedure for a specific Erasmus+ international mobility scheme. The applicable call, the [Erasmus+ Programme Guide](https://erasmus-plus.ec.europa.eu/erasmus-programme-guide), and the student's signed Grant Agreement determine the actual conditions.",
+
+  "resourcesTitle": "Important Links and Documents",
+  "resourcesDescription": "Access the registration portal, university contacts, official forms and useful Erasmus+ resources.",
+
+  "resources": {
+    "registration": "IRK Registration Portal",
+    "coordinators": "Erasmus+ Faculty Coordinators",
+    "guidelines": "Incoming Students Guidelines",
+    "grantSample": "Grant Agreement Sample",
+    "financialForm": "Financial and Administrative Information Form",
+    "distanceCalculator": "European Commission Distance Calculator"
+  },
+
+  "departureTitle": "Before Departure",
+  "departureText": "After completing the required courses, examinations and assessments, the student should ensure that all grades are recorded. The Faculty Coordinator will issue the Transcript of Records in accordance with the university's procedure.",
+
+  "contactTitle": "Need Assistance?"
+}
+
+
+
+
+
+
+
 }

@@ -104,7 +104,12 @@ Status legend: ⬜ Not started · 🟨 In progress · ✅ Done · 🟥 Blocked
 ### Mohamed
 **joined the Repo**
 #### 2026-11-18
-- ✅ Done: —
+- ✅ Done: 
 - 🟨 In progress: about
+- 🟥 Blocked by: —
+- 📝 Notes: —
+#### 2026-11-24
+- ✅ Done: about
+- 🟨 In progress: contact us
 - 🟥 Blocked by: —
 - 📝 Notes: —

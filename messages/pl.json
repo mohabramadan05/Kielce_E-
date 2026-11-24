@@ -1,4 +1,4 @@
-  {
+{
   "Metadata": {
     "title": "Kielce Erasmus Plus",
     "description": "Twój przewodnik po studiowaniu i życiu w Kielcach w ramach programu Erasmus+."
@@ -63,7 +63,7 @@
     "get": "SKONTAKTUJ SIĘ",
     "title": "Koordynatorzy",
     "desc": "Jeden kontakt dla całej uczelni oraz po jednym na każdy wydział w sprawie wyjazdów na studia, wyjazdów dydaktycznych, wyjazdów pracowników i praktyk.",
-  "eur-cor": "Uczelniany Koordynator Programu Erasmus+",
+    "eur-cor": "Uczelniany Koordynator Programu Erasmus+",
     "building": "Budynek",
     "room": "Pokój",
     "study": "Wyjazdy na studia / wyjazdy nauczycieli i pracowników",
@@ -187,7 +187,8 @@
     },
     "ctaTitle": "Poznaj nasze uczelnie partnerskie",
     "ctaText": "Odkryj uczelnie z całego świata współpracujące z Politechniką Świętokrzyską w ramach programu Erasmus+.",
-    "ctaButton": "Zobacz uczelnie partnerskie"},
+    "ctaButton": "Zobacz uczelnie partnerskie"
+  },
   "outgoing": {
     "title": "DLA STUDENTÓW PŚk",
     "sub-title": "Studenci wyjeżdżający",
@@ -218,5 +219,402 @@
     "ready": "Gotowy na wyjazd za granicę?",
     "ready-desc": "Porozmawiaj z koordynatorem wydziałowym o dostępnych uczelniach partnerskich i otwartych naborach.",
     "ready-btn": "Znajdź swojego koordynatora "
+  },
+
+"PolicyPage": {
+  "eyebrow": "Program Erasmus+",
+  "title": "Deklaracja polityki",
+  "intro": "Strategia umiędzynarodowienia, cele instytucjonalne i zobowiązania Politechniki Świętokrzyskiej w ramach programu Erasmus+.",
+
+  "universityTitle": "O Politechnice Świętokrzyskiej",
+  "universityHistory": "Politechnika Świętokrzyska jest wiodącą uczelnią wyższą w województwie, a także jedyną techniczną uczelnią wyższą w Świętokrzyskim z tak długą historią.",
+  "universityOrigins": "PŚk formalnie powstała w 1974 roku, jednak jej początki sięgają 1951 roku, kiedy była częścią Kielecko-Radomskiej Wieczorowej Szkoły Inżynierskiej dając studentom możliwość uzyskania tytułu licencjata z zakresu budowy maszyn.",
+
+  "originsLabel": "Początki uczelni",
+  "originsYear": "1951",
+  "originsDescription": "",
+  "establishmentLabel": "Formalne powstanie",
+  "establishmentYear": "1974",
+  "establishmentDescription": "",
+
+  "tasksTitle": "Główne zadania Uczelni",
+  "tasksDescription": "Główne zadania Politechniki Świętokrzyskiej określono w Statucie jako:",
+  "tasks": {
+    "research": "prowadzenie badań naukowych, prac rozwojowych, wykonywanie usług badawczych i transfer technologii do gospodarki;",
+    "studentEducation": "kształcenie studentów w trakcie studiów dyplomowych, studiów podyplomowych i innych form kształcenia;",
+    "doctoralEducation": "prowadzenie kształcenia dla doktorantów;",
+    "staffTraining": "kształcenie i oferowanie możliwości szkoleniowych kadry Uczelni;",
+    "accessibility": "tworzenie niezbędnych warunków do pełnego uczestnictwa osób niepełnosprawnych w procesie kształcenia i badań;",
+    "civicResponsibility": "kształcenie uczniów w poczuciu odpowiedzialności za państwo polskie, tradycję narodową, umacnianie zasad demokracji i poszanowania praw człowieka;",
+    "physicalEducation": "tworzenie warunków do rozwoju kultury fizycznej studentów;",
+    "knowledgeSharing": "upowszechnianie osiągnięć nauki i techniki poprzez gromadzenie i udostępnianie zbiorów bibliotecznych i informacyjnych;",
+    "communityEngagement": "prowadzenie działań na rzecz społeczności lokalnej i regionu."
+  },
+
+  "strategyTitle": "Strategia Rozwoju Uczelni 2015–2025",
+  "strategyDescription": "Do najważniejszych założeń Strategii Rozwoju Uczelni sformułowanej na lata 2015–2025 należą:",
+  "strategyGoals": {
+    "studentNumbers": "Utrzymanie liczby studentów na poziomie odpowiadającym potencjałowi dydaktycznemu Politechniki Świętokrzyskiej oraz potrzebom rynku pracy.",
+    "researchDevelopment": "Intensyfikacja działań rozwojowych w obszarze nauki i badań wynikających z realizacji projektów współfinansowanych przez Unię Europejską.",
+    "europeanCompetitiveness": "Wzmocnienie konkurencyjności w europejskiej przestrzeni szkolnictwa wyższego w obszarach edukacji, nauki i badań.",
+    "academicPartnerships": "Podjęcie zadań mających na celu rozszerzenie współpracy Politechniki Świętokrzyskiej z uczelniami i jednostkami naukowymi o podobnym profilu działalności, mających na celu współdziałanie zgodne z interesami Politechniki Świętokrzyskiej.",
+    "internationalPosition": "Wzmocnienie pozycji Politechniki Świętokrzyskiej jako uczelni międzynarodowej."
+  },
+
+  "internationalisationTitle": "Internacjonalizacja i współpraca międzynarodowa",
+  "internationalisation": {
+    "multiculturalCommunity": "PŚk stale dąży do zwiększania znaczenia internacjonalizacji wśród studentów, ponieważ z punktu widzenia Uczelni istotny jest rozwój wielokulturowej społeczności studentów i pracowników.",
+    "globalEducation": "Politechnika Świętokrzyska zapewnia doświadczenie edukacyjne, które ma przygotować studentów do globalnych środowisk politycznych i społecznych, między innymi dzięki rozwojowi międzynarodowych sojuszów i partnerstw w celu budowania potencjału, edukacji i przedsiębiorczości, wprowadzania programów studiów, które mają zapotrzebowanie na rynku międzynarodowym oraz podnoszenia rangi i znaczenia Uczelni na świecie.",
+    "internationalCooperation": "Współpraca międzynarodowa od zawsze stanowiła istotną wartość dla Politechniki Świętokrzyskiej, zarówno z krajami Unii Europejskiej jak i państwami niestowarzyszonymi.",
+    "erasmusPartnerships": "Wśród korzyści jakie dał program LLP-Erasmus, można wskazać nawiązanie relacji z 90 najważniejszymi uniwersytetami w 20 krajach Europy.",
+    "researchNetworks": "Internacjonalizacja PŚk realizowana jest również poprzez włączenie pracowników naukowych w międzynarodowe sieci badawcze i naukowo-edukacyjne zarówno w Europie jak i na świecie – CEEPUS, DAAD.",
+    "europeanIntegration": "Rozwój internacjonalizacji, a także udział studentów i wykładowców w strukturach edukacyjnych i badawczych na poziomie europejskim stanowią istotną część Strategii Uczelni."
+  },
+
+  "erasmusTitle": "Uczestnictwo w programie Erasmus+ 2021–2027",
+  "erasmus": {
+    "programmeDevelopment": "Uczestnictwo w Programie w latach 2021-2027 zapewnia zrównoważony rozwój rozpoczętych, a także wdrożonych w ostatnich latach działań. Między innymi dzięki takim Projektom, Politechnika Świętokrzyska stale rozwija się, a także podnosi swoje znaczenie na arenie międzynarodowej.",
+    "digitalModernisation": "Ponadto przynależność Uczelni do Programu zachęca do wprowadzania coraz nowszych procesów modernizacyjnych (tj. różnorodnych rozwiązań technologicznych, w których za nadrzędną ideę wskazuje się wzbogacenie narzędzi e-learningowych), natomiast głównym celem internacjonalizacji jest zwiększanie zasięgu i mobilności pracowników.",
+    "innovativeTeaching": "Politechnika Świętokrzyska nieustannie wspiera kadrę naukową w poszukiwaniu coraz nowszych i innowacyjnych sposobów nauczania.",
+    "researchOpportunities": "Niezwykle istotne jest promowanie nauki, między innymi w ramach wyjazdów naukowych, które dają możliwość zapoznania się z kursami projektowymi w konkretnej dziedzinie specjalizacji oraz ich dopasowaniem do wymagań zawodowych i umiejętności w różnych krajach.",
+    "staffMobility": "Dzięki udziałowi w programie Erasmus+ pracownicy administracyjni i dydaktyczni mają możliwość zrealizowania tych celów w ramach mobilności.",
+    "culturalExchange": "Politechnika Świętokrzyska stale promuje uczestnictwo w ramach programu mobilności kadry, który zapewnia wsparcie uczestnikom programu na poziomie osobistym i zawodowym – poprzez zapewnienie możliwości dzielenia się wiedzą i poznawania nowych kultur.",
+    "programmePromotion": "Promocja Programu dla kadry Uczelni odbywa się przez kontakt osobisty i stronę internetową, na której dostępne są materiały pomocnicze, a także dzięki Wydziałowym Koordynatorom Programu."
+  },
+
+  "mobilityTitle": "Mobilność studentów i jakość kształcenia",
+  "mobility": {
+    "educationQuality": "Uczelnia dokłada wszelkich starań, by jakość oferowanego kształcenia była najwyższa, zarówno dla polskich jak i zagranicznych studentów. Najlepszą miarą ukazującą skuteczność działań Politechniki Świętokrzyskiej w zakresie współpracy międzynarodowej i dydaktyki są sukcesy naszych studentów, zarówno edukacyjne jak i zawodowe.",
+    "exchangeOpportunities": "Uczelnia dba, aby program wymiany międzynarodowej był jeszcze bardziej atrakcyjny dla studentów, a zdobywane doświadczenia na zagranicznych studiach zapewniały coraz więcej możliwości.",
+    "internationalAccess": "Ponadto Politechnika Świętokrzyska oferuje szansę na podjęcie wymiany europejskiej i międzynarodowej wszystkim studentom, w tym również przyjeżdżającym studentom z zagranicy w pełnym wymiarze godzin.",
+    "universityCooperation": "PŚk dąży do zwiększania znaczenia na arenie międzynarodowej, a wzrost znaczenia współpracy międzynarodowej na uczelni niewątpliwie oddziałuje na przebieg tego procesu, dlatego tak ważne jest aby stale rozwijać kooperacje z zagranicznymi uczelniami.",
+    "studentDevelopment": "W dzisiejszych czasach, w dobie dynamicznych przemian i szybkiego rozwoju najnowszych technologii dokładamy wszelkich starań, aby nasi Studenci mieli szansę na wykreowanie jak najlepszej przyszłości na arenie międzynarodowej.",
+    "mobilityBenefits": "Podjęcie mobilności studenckiej to niepowtarzalna możliwość prowadzenia badań, dostrzegania nowych środowisk w dynamicznym międzynarodowym życiu społecznym, kulturalnym i biznesowym."
+  },
+
+  "inclusionTitle": "Włączenie społeczne, różnorodność i modernizacja",
+  "inclusion": {
+    "multiculturalEnvironment": "Uczelnia buduje wielokulturowe środowisko, a to przekłada się na poznanie i zrozumienie pojawiających się różnic, zarówno wśród studentów, jak i pracowników.",
+    "financialSupport": "Znaczący jest fakt, że wziąć udział w Programie mogą także osoby, które wykazują niewielkie dochody, ponieważ dla takich osób przewidziane jest wyższe wsparcie finansowe.",
+    "technologicalProgress": "Na czele wszelkich globalnych polityk stoi modernizacja, a to właśnie ona pociąga za sobą postęp technologiczny, który zwiększa konkurencyjność i poprawia jakość edukacji.",
+    "inclusiveFuture": "W końcu naszym priorytetem jest przygotowanie studentów, do podjęcia się budowania tradycji naukowej i tworzenia zróżnicowanej kulturowo przyszłości z wieloma nowymi wyzwaniami i możliwościami."
   }
+},
+
+"InclusionPage": {
+  "eyebrow": "Program Erasmus+",
+  "title": "Strategia włączenia społecznego",
+  "subtitle": "Tworzenie równych szans i eliminowanie barier w edukacji międzynarodowej oraz mobilności.",
+
+  "introductionTitle": "Wprowadzenie",
+  "introductionText": "Strategia włączenia społecznego i równych szans Politechniki Świętokrzyskiej została opracowana w celu zapewnienia równych możliwości wszystkim studentom i pracownikom, szczególnie osobom z mniejszymi szansami. Strategia obejmuje działania wspierające włączenie społeczne w ramach programów mobilności międzynarodowej, takich jak Erasmus+, oraz innych inicjatyw uczelni. Naszym celem jest promowanie różnorodności i integracji oraz eliminowanie barier utrudniających uczestnictwo w edukacji i programach mobilności.",
+
+  "objectivesTitle": "Cele strategii",
+  "objectivesIntro": "Nasze główne cele to:",
+  "objectives": {
+    "participation": {
+      "title": "Zwiększenie uczestnictwa",
+      "description": "Zwiększenie udziału studentów z mniejszymi szansami, w tym osób z trudnościami ekonomicznymi, zdrowotnymi lub niepełnosprawnościami, w programach mobilności Erasmus+ o 25% w ciągu najbliższych 5 lat."
+    },
+    "access": {
+      "title": "Poprawa dostępności",
+      "description": "Zwiększenie dostępu do programów międzynarodowych poprzez usuwanie barier finansowych, informacyjnych i logistycznych."
+    },
+    "equalOpportunities": {
+      "title": "Zapewnienie równych szans",
+      "description": "Zapewnienie równych szans we wszystkich aspektach życia akademickiego, w tym podczas wyjazdów na studia i praktyki za granicą."
+    },
+    "awareness": {
+      "title": "Zwiększenie świadomości",
+      "description": "Zwiększanie świadomości na temat włączenia społecznego i różnorodności wśród studentów i pracowników uczelni poprzez szkolenia, warsztaty i kampanie informacyjne."
+    }
+  },
+
+  "targetsTitle": "Grupy docelowe",
+  "targetsIntro": "Strategia skierowana jest do:",
+  "targets": {
+    "financialDifficulties": "Osób znajdujących się w trudnej sytuacji finansowej, dla których koszty mogą ograniczać dostęp do programów mobilności.",
+    "disabilities": "Studentów i pracowników z niepełnosprawnościami.",
+    "minorities": "Osób należących do mniejszości społecznych, kulturowych lub etnicznych.",
+    "healthConditions": "Osób z problemami zdrowotnymi, które mogą wymagać specjalnego wsparcia podczas mobilności.",
+    "familyResponsibilities": "Studentów sprawujących opiekę nad dziećmi lub członkami rodziny."
+  },
+
+  "activitiesTitle": "Działania i inicjatywy",
+  "activitiesIntro": "Uczelnia realizuje następujące działania wspierające uczestnictwo wszystkich osób:",
+  "initiatives": {
+    "financialSupport": {
+      "title": "Wsparcie finansowe",
+      "description": "Zapewnienie dodatkowego wsparcia finansowego studentom z mniejszymi szansami uczestniczącym w programach mobilności Erasmus+, na przykład poprzez stypendia pokrywające dodatkowe koszty związane z wyjazdem."
+    },
+    "advisorySupport": {
+      "title": "Indywidualne wsparcie doradcze",
+      "description": "Zapewnienie dostępu do doradców specjalizujących się w potrzebach studentów z mniejszymi szansami. Każdy student może skorzystać z indywidualnych konsultacji dotyczących możliwości wyjazdu, przygotowania do mobilności oraz wsparcia podczas pobytu za granicą."
+    },
+    "accessibleInfrastructure": {
+      "title": "Dostosowanie infrastruktury i usług",
+      "description": "Uczelnia zapewnia pełne dostosowanie infrastruktury do potrzeb osób z niepełnosprawnościami."
+    },
+    "inclusionTraining": {
+      "title": "Szkolenia i warsztaty dotyczące włączenia społecznego",
+      "description": "Organizowanie warsztatów i szkoleń dla pracowników i studentów na temat różnorodności, włączenia społecznego i przeciwdziałania dyskryminacji. Ich celem jest zwiększenie świadomości i wiedzy o potrzebach osób z mniejszymi szansami."
+    },
+    "organisationCooperation": {
+      "title": "Współpraca z organizacjami pozarządowymi i studenckimi",
+      "description": "Współpraca z organizacjami wspierającymi osoby z niepełnosprawnościami, organizacjami studenckimi oraz lokalnymi organizacjami pozarządowymi promującymi równość i integrację społeczną."
+    },
+    "informationAccess": {
+      "title": "Łatwiejszy dostęp do informacji",
+      "description": "Udostępnianie na stronie internetowej informacji o wsparciu dla studentów z mniejszymi szansami, w tym zasad uzyskiwania dodatkowego wsparcia finansowego, przewodników po uczelniach partnerskich i innych materiałów."
+    }
+  },
+
+  "monitoringTitle": "Monitorowanie i ewaluacja",
+  "monitoringText": "Aby ocenić skuteczność strategii włączenia społecznego, uczelnia będzie regularnie przeprowadzać badania satysfakcji oraz analizować poziom uczestnictwa osób z mniejszymi szansami w programach mobilności. Wyniki tych ocen będą uwzględniane w corocznych raportach i posłużą jako podstawa do dalszych usprawnień.",
+
+  "summaryTitle": "Podsumowanie",
+  "summaryText": "Politechnika Świętokrzyska dąży do stworzenia środowiska akademickiego wspierającego różnorodność i integrację. Nasza strategia włączenia społecznego jest kluczowym elementem tych działań i odzwierciedla nasze zaangażowanie w zapewnienie każdemu studentowi, niezależnie od jego pochodzenia i sytuacji życiowej, możliwości pełnego korzystania z oferty programu Erasmus+ oraz innych inicjatyw międzynarodowych.",
+
+  "documentTitle": "Oficjalny dokument strategii włączenia",
+  "documentText": "Pobierz oficjalny dokument Strategii włączenia społecznego Politechniki Świętokrzyskiej.",
+  "download": "Pobierz PDF",
+  "documentLanguage": ""
+},
+
+
+"NewsPage": {
+  "eyebrow": "Politechnika Świętokrzyska",
+  "title": "Aktualności Erasmus+",
+  "intro": "Poznaj najnowsze wydarzenia, wymiany międzynarodowe, inicjatywy studenckie i możliwości rozwoju w ramach programu Erasmus+ na Politechnice Świętokrzyskiej.",
+  "featured": "Wyróżniona aktualność",
+  "latest": "Najnowsze aktualności",
+  "readMore": "Czytaj cały artykuł",
+  "viewAll": "Zobacz wszystkie aktualności",
+  "emptyTitle": "Brak aktualności",
+  "emptyDescription": "Obecnie nie ma żadnych aktualności do wyświetlenia. Zapraszamy ponownie wkrótce."
+},
+
+"NewsArticles": {
+  "huelvaProgramme": {
+    "title": "Erasmus+ Blended Intensive Programme na Universidad de Huelva",
+    "description": "Studenci Politechniki Świętokrzyskiej uczestniczyli w międzynarodowym programie Erasmus+ w Hiszpanii, poświęconym zrównoważonemu górnictwu, technologiom cyfrowym i automatyzacji.",
+    "content": [
+      "Studenci Wydziału Mechatroniki i Budowy Maszyn Politechniki Świętokrzyskiej uczestniczyli w programie Erasmus+ Blended Intensive Programme na Universidad de Huelva w Hiszpanii w dniach 21–25 września 2026 roku.",
+      "W wymianie wzięli udział Gabriela Herbuś, Dawid Giemza, Rafał Gładysiński, Karol Rokita oraz Krzysztof Szfugier.",
+      "Program odbywał się pod hasłem Sustainable Mining Projects: Integrating Digital and Automated Solutions with Economic, Social and Environmental Considerations.",
+      "Uniwersytet w Huelvie gościł studentów i pracowników naukowych z Niemiec, Estonii, Portugalii i Polski. W ciągu tygodnia uczestnicy brali udział w wykładach, laboratoriach, spotkaniach i dyskusjach dotyczących nowoczesnych rozwiązań inżynierskich.",
+      "Studenci odwiedzili również kopalnie i zakłady przemysłowe, gdzie poznawali praktyczne zastosowania technologii zrównoważonego górnictwa, cyfryzacji i automatyzacji.",
+      "Program pozwolił zdobyć wiedzę na temat środowiskowych i ekonomicznych aspektów górnictwa, zautomatyzowanych procesów oraz innowacyjnych rozwiązań technologicznych.",
+      "Studenci, którzy ukończyli program, otrzymali 3 punkty ECTS, które zostaną uwzględnione w suplementach do dyplomów. Zdobyli także cenne doświadczenie w międzynarodowym środowisku akademickim.",
+      "Politechnika Świętokrzyska od wielu lat współpracuje z Universidad de Huelva. Współpraca rozwija się między innymi dzięki zaangażowaniu dr. hab. inż. Sławomira Błasiaka, prof. PŚk, oraz profesora Domingo Javiera Carvajala Gómeza z Uniwersytetu w Huelvie.",
+      "W ramach tej współpracy studenci z Huelvy uczestniczyli również w programie Blended Intensive Programme Model Manufacturing Methods – Advanced Manufacturing Methods, Additive Manufacturing and Reverse Engineering, zorganizowanym na Politechnice Świętokrzyskiej w maju 2026 roku.",
+      "Studenci zainteresowani podobnymi możliwościami międzynarodowymi mogą odwiedzić [stronę Uniwersytetu w Huelvie](https://www.uhu.es/) oraz zapoznać się z [informacjami o współpracy międzynarodowej](https://www.uhu.es/internacionalizacion/).",
+      "Udział w krótkich programach intensywnych lub semestralnych wymianach Erasmus+ pozwala rozwijać umiejętności zawodowe, poznawać nowe kultury, zdobywać pewność siebie i budować międzynarodowe przyjaźnie."
+    ]
+  },
+
+  "internationalStart": {
+    "title": "Międzynarodowy start na Politechnice Świętokrzyskiej: Orientation Days 2026",
+    "description": "Politechnika Świętokrzyska powitała studentów zagranicznych podczas Orientation Days 2026, organizując spotkania akademickie, warsztaty kulturowe oraz zwiedzanie Kielc.",
+    "content": [
+      "W dniach 28–30 września 2026 roku Politechnika Świętokrzyska zorganizowała Orientation Days, których celem było powitanie studentów zagranicznych i ułatwienie im rozpoczęcia nauki w nowym środowisku akademickim.",
+      "Wydarzenie koordynował Dział Rozwoju Kadry Naukowej i Współpracy Międzynarodowej. W spotkaniach uczestniczyli studenci uczelni partnerskich z Hiszpanii, Turcji, Włoch, Portugalii, Uzbekistanu i Jordanii.",
+      "Nowych studentów powitali koordynatorzy programu Erasmus+ oraz polscy studenci-wolontariusze, którzy pełnili funkcję mentorów i pomagali im poznać życie akademickie.",
+      "Jednym z tradycyjnych punktów pierwszego dnia było wspólne zdjęcie wykonane w budynku rektoratu.",
+      "Podczas Orientation Days uczestnicy poznali strukturę uczelni, zasady studiowania, funkcjonowanie akademików oraz nowoczesną infrastrukturę kampusu.",
+      "Ważnym elementem wydarzenia były warsztaty Cultural Thermometer. Podczas interaktywnych spotkań studenci zagraniczni poznawali polskie tradycje, lokalne zwyczaje i codzienne życie w Kielcach.",
+      "Program obejmował również zwiedzanie Kielc z przewodnikiem. Studenci odwiedzili Rynek, słynną rzeźbę dzika, ulicę Sienkiewicza oraz Wzgórze Zamkowe.",
+      "W [Instytucie Dizajnu w Kielcach](https://idkielce.pl/) uczestnicy wzięli udział w warsztatach malowania ceramiki, podczas których ozdabiali talerze i tworzyli pamiątki z pobytu.",
+      "Studenci odwiedzili również [Ośrodek Myśli Patriotycznej i Obywatelskiej](https://ompio.pl/), gdzie obejrzeli wystawę poświęconą ważnym wydarzeniom z historii Polski i regionu świętokrzyskiego.",
+      "Trzydniowy program zakończył się wieczornym spotkaniem integracyjnym. Studenci z różnych krajów mieli okazję wymienić się pierwszymi wrażeniami, poznać nowych znajomych i nawiązać międzynarodowe przyjaźnie.",
+      "Więcej fotografii z wydarzenia można obejrzeć w [galerii zdjęć Orientation Days 2026](https://www.flickr.com/photos/203673294@N06/albums/72177720335911310).",
+      "Orientation Days pomogły studentom zagranicznym poczuć się swobodniej w nowym środowisku i zapewniły pozytywny początek ich przygody z programem Erasmus+ na Politechnice Świętokrzyskiej."
+    ]
+  },
+
+  "orientationInvitation": {
+    "title": "Erasmus+ Orientation Days 2026",
+    "description": "Zaproszenie dla studentów przyjeżdżających w ramach programu Erasmus+ do poznania Politechniki Świętokrzyskiej, życia studenckiego w Polsce i innych studentów zagranicznych.",
+    "content": [
+      "Politechnika Świętokrzyska serdecznie powitała studentów przyjeżdżających w ramach programu Erasmus+ na początku roku akademickiego 2026/2027.",
+      "Uczelnia zaprosiła studentów zagranicznych do udziału w Orientation Days – cyklu spotkań przygotowanych w celu zapoznania ich z uczelnią, miastem Kielce oraz codziennym życiem w Polsce.",
+      "Program miał pomóc studentom poznać środowisko akademickie, infrastrukturę uczelni oraz możliwości dostępne podczas wymiany Erasmus+.",
+      "Orientation Days stworzyły również okazję do poznania innych studentów zagranicznych, odkrywania polskiej kultury i nawiązywania przyjaźni z osobami z różnych krajów.",
+      "Studentów zachęcono do aktywnego uczestnictwa w przygotowanych wydarzeniach i jak najlepszego wykorzystania międzynarodowego doświadczenia.",
+      "Uczelnia wyraziła nadzieję, że studiowanie w Kielcach przyniesie uczestnikom cenną wiedzę akademicką, nowe doświadczenia kulturowe, rozwój osobisty i niezapomniane wspomnienia.",
+      "Więcej informacji o uczelni i oferowanych programach można znaleźć na [stronie Politechniki Świętokrzyskiej](https://tu.kielce.pl/).",
+      "Z radością witamy studentów Erasmus+ i życzymy im udanego rozpoczęcia nowego etapu edukacji."
+    ]
+  },
+
+  "ka171TeachingStaff": {
+    "title": "Erasmus+ KA171: Wizyta zagranicznej kadry dydaktycznej",
+    "description": "Pracownicy naukowi uczelni partnerskich z Algierii, Gruzji i Uzbekistanu odwiedzili Politechnikę Świętokrzyską, aby prowadzić zajęcia dydaktyczne i rozwijać współpracę międzynarodową.",
+    "content": [
+      "Program Erasmus+ na lata 2021–2027 wspiera współpracę międzynarodową między uczelniami europejskimi a instytucjami partnerskimi z krajów trzecich niestowarzyszonych z programem.",
+      "W ramach Erasmus+ KA171 Politechnika Świętokrzyska rozwija partnerstwa akademickie i wymiany edukacyjne z uczelniami w Algierii, Chinach, Gruzji, Indiach, Jordanii, Malezji, Ukrainie i Uzbekistanie.",
+      "W dniach 15–19 czerwca 2026 roku Politechnika Świętokrzyska gościła pracowników naukowych z University of Ain Temouchent w Algierii, Kutaisi International University w Gruzji oraz Jizzakh Polytechnic Institute w Uzbekistanie.",
+      "Podczas wizyty zagraniczni wykładowcy mieli okazję poznać Kielce, zwiedzić kampus uczelni i odwiedzić wybrane laboratoria badawcze.",
+      "Goście prowadzili także wykłady dla studentów Wydziału Mechatroniki i Budowy Maszyn oraz Wydziału Elektrotechniki, Automatyki i Informatyki.",
+      "Zajęcia umożliwiły studentom zdobycie wiedzy od zagranicznych wykładowców, poznanie różnych perspektyw naukowych i poszerzenie wiedzy w zakresie kierunków studiów.",
+      "Wizyta stworzyła również możliwość wymiany doświadczeń między pracownikami uczelni, dyskusji na temat metod dydaktycznych i planowania przyszłej współpracy.",
+      "Program stanowi kontynuację działań realizowanych w ramach porozumień Erasmus+ KA171 oraz wcześniejszych wymian studenckich z uczelniami partnerskimi.",
+      "Międzynarodowa mobilność akademicka wzmacnia relacje między uczelniami i przyczynia się do rozwoju edukacji, badań naukowych oraz wzajemnego zrozumienia kultur.",
+      "Więcej informacji o międzynarodowej współpracy w szkolnictwie wyższym można znaleźć na [oficjalnej stronie programu Erasmus+ Komisji Europejskiej](https://erasmus-plus.ec.europa.eu/)."
+    ]
+  }
+},
+
+"ContactPage": {
+  "eyebrow": "Politechnika Świętokrzyska",
+  "title": "Kontakt i dojazd na Politechnikę Świętokrzyską",
+  "intro": "Znajdź biuro Erasmus+, poznaj kampus Politechniki Świętokrzyskiej i sprawdź przydatne możliwości dojazdu do Kielc.",
+
+  "addressTitle": "Adres Uczelni",
+  "address": "Politechnika Świętokrzyska\nal. Tysiąclecia Państwa Polskiego 7\n25-314 Kielce, Polska",
+
+  "departmentTitle": "Dział Rozwoju Kadry Naukowej i Współpracy Międzynarodowej",
+
+  "travelTitle": "Jak dojechać do Kielc",
+  "travelDescription": "Jeśli przylatujesz do Polski samolotem, możesz kontynuować podróż do Kielc pociągiem lub autobusem. Serwis KOLEO umożliwia sprawdzanie rozkładów jazdy pociągów i zakup biletów online.",
+  "trainLabel": "Główny dworzec kolejowy",
+  "trainStation": "Kielce Główne",
+
+  "campusTitle": "Mapa Kampusu",
+  "campusDescription": "Poznaj kampus Politechniki Świętokrzyskiej oraz lokalizację budynków i obiektów uczelni.",
+  "openMap": "Otwórz pełną mapę kampusu",
+
+  "universityStopLabel": "Najbliższy przystanek autobusowy przy uczelni",
+  "universityStop": "WARSZAWSKA POLITECHNIKA",
+  "dormitoryStopLabel": "Najbliższy przystanek autobusowy przy akademikach",
+  "dormitoryStop": "AL. SOLIDARNOŚCI / TYSIĄCLECIA PP.",
+
+  "ticketTitle": "Ważne informacje dotyczące biletów autobusowych",
+  "ticketNote": "Do czasu otrzymania polskiej legitymacji studenckiej kupuj bilet normalny zamiast ulgowego, chyba że posiadasz inny ważny dokument uprawniający do zniżki.",
+
+  "appsTitle": "Przydatne aplikacje transportowe",
+  "appsIntro": "Te aplikacje pomogą Ci poruszać się po Kielcach, sprawdzać połączenia komunikacji miejskiej i zamawiać przejazdy.",
+
+  "appStoreLabel": "Pobierz w App Store",
+  "googlePlayLabel": "Pobierz z Google Play",
+
+  "apps": {
+    "jakdojade": {
+      "description": "Planuj trasy komunikacji miejskiej, sprawdzaj godziny odjazdów i wyszukuj połączenia autobusowe oraz kolejowe. Tam, gdzie usługa jest dostępna, możesz również kupować bilety."
+    },
+    "bolt": {
+      "description": "Zamów przejazd za pomocą smartfona. Wprowadź cel podróży, sprawdź szacunkową cenę i wybierz dostępną metodę płatności."
+    },
+    "uber": {
+      "description": "Zamów przejazd, podając miejsce odbioru i cel podróży. Sprawdź dostępne opcje, szacunkowe ceny i metody płatności."
+    }
+  },
+
+  "samsungTitle": "Samsung Galaxy Store",
+  "samsungDescription": "Użytkownicy urządzeń Samsung mogą przeglądać sklep Galaxy Store w poszukiwaniu kompatybilnych aplikacji."
+},
+
+
+
+"ApplicationProcessPage": {
+  "eyebrow": "Erasmus+ Studenci przyjeżdżający",
+  "title": "Proces aplikacyjny",
+  "intro": "Poznaj kolejne etapy ubiegania się o studia na Politechnice Świętokrzyskiej – od nominacji przez uczelnię macierzystą po zakończenie mobilności.",
+  "scope": "Procedura dotyczy międzynarodowej mobilności studentów Erasmus+ z krajów trzecich niestowarzyszonych z programem. W przypadku innych studentów przyjeżdżających mogą obowiązywać odmienne warunki.",
+
+  "stepsTitle": "Jak aplikować",
+  "stepsSubtitle": "Proces rozpoczyna się na uczelni macierzystej. Po nominacji kolejne działania są koordynowane z Politechniką Świętokrzyską.",
+
+  "general": {
+    "title": "Informacje ogólne",
+    "eligibility": "O udział mogą ubiegać się studenci oficjalnie zapisani na uczelnię partnerską, którzy do momentu przyjazdu na Politechnikę Świętokrzyską ukończą co najmniej pierwszy rok studiów pierwszego stopnia.",
+    "academicRecognition": "Okres studiów zrealizowany na Politechnice Świętokrzyskiej powinien zostać uznany przez uczelnię macierzystą studenta.",
+    "programmeRules": "Mobilność organizowana jest zgodnie z [Przewodnikiem po programie Erasmus+](https://erasmus-plus.ec.europa.eu/erasmus-programme-guide) oraz wytycznymi polskiej Narodowej Agencji – [Fundacji Rozwoju Systemu Edukacji](https://www.frse.org.pl/)."
+  },
+
+  "qualification": {
+    "title": "Kwalifikacja na uczelni macierzystej",
+    "homeUniversity": "Rekrutacja odbywa się na uczelni macierzystej studenta zgodnie z jej procedurami oraz zasadami [Przewodnika po programie Erasmus+](https://erasmus-plus.ec.europa.eu/erasmus-programme-guide).",
+    "englishLevel": "Studenci muszą wykazać znajomość języka angielskiego na poziomie co najmniej B1 zgodnie z Europejskim Systemem Opisu Kształcenia Językowego (CEFR). Za sprawdzenie kompetencji językowych odpowiada uczelnia macierzysta."
+  },
+
+  "nomination": {
+    "title": "Nominacja studenta",
+    "procedure": "Uczelnia partnerska nominuje studenta na studia w Politechnice Świętokrzyskiej, wysyłając wiadomość na adres [erasmus@tu.kielce.pl](mailto:erasmus@tu.kielce.pl).",
+    "requiredDetails": "Nominacja powinna zawierać imię, nazwisko, płeć, adres e-mail oraz kierunek studiów kandydata."
+  },
+
+  "registration": {
+    "title": "Rejestracja po nominacji",
+    "acceptanceEmail": "Po nominacji student otrzymuje wiadomość powitalną lub potwierdzającą przyjęcie z Politechniki Świętokrzyskiej, zawierającą instrukcje i dane dostępu do [systemu rekrutacyjnego IRK](https://irk.usos.tu.kielce.pl/).",
+    "irkAccount": "Student powinien zarejestrować się w [systemie IRK](https://irk.usos.tu.kielce.pl/) i złożyć wniosek o udział w programie Erasmus+ na Politechnice Świętokrzyskiej. Dodatkowe informacje znajdują się w [instrukcjach dla studentów przyjeżdżających](/pl/students/incoming)."
+  },
+
+  "beforeArrival": {
+    "title": "Dokumenty i przygotowanie przed przyjazdem",
+    "insurance": "Uzyskaj ważne ubezpieczenie zdrowotne i prześlij skan polisy do swojego wniosku w [systemie IRK](https://irk.usos.tu.kielce.pl/).",
+    "learningAgreement": "Przygotuj Learning Agreement w porozumieniu z [koordynatorami wydziałowymi programu Erasmus+](/pl/students/coordinators) na Politechnice Świętokrzyskiej.",
+    "approval": "Learning Agreement musi zostać zatwierdzony przez odpowiedzialne osoby zarówno na uczelni macierzystej, jak i na Politechnice Świętokrzyskiej. Zatwierdzony dokument należy zamieścić na [koncie studenta w systemie IRK](https://irk.usos.tu.kielce.pl/).",
+    "acceptanceLetter": "List akceptacyjny (Acceptance Letter) wystawiają [koordynatorzy wydziałowi Erasmus+](/pl/students/coordinators). Dokument zostanie udostępniony na [koncie IRK](https://irk.usos.tu.kielce.pl/) przed przyjazdem i w razie potrzeby może służyć do uzyskania wizy.",
+    "bankDetails": "Przekaż dane rachunku bankowego potrzebne do przygotowania umowy stypendialnej po zatwierdzeniu Learning Agreement. Możesz zapoznać się z [wzorem umowy stypendialnej](https://erasmus.tu.kielce.pl/wp-content/uploads/2025/02/zalacznik-6-umowa-student-2023-en-2.docx).",
+    "financialForm": "Wypełnij [formularz informacji finansowych i administracyjnych](https://erasmus.tu.kielce.pl/wp-content/uploads/2024/01/SMS-incoming-application-form_KUT-info-FINANCIAL.docx) i przekaż go do działu odpowiedzialnego za współpracę międzynarodową.",
+    "grantSignature": "Umowa stypendialna podpisywana jest przez studenta i przedstawiciela Politechniki Świętokrzyskiej. Powinna zostać podpisana przed rozpoczęciem mobilności, choć dopuszcza się jej podpisanie bezpośrednio po przyjeździe."
+  },
+
+  "agreementTitle": "Umowa stypendialna i zasady mobilności",
+
+  "agreement": {
+    "duration": {
+      "title": "Czas trwania mobilności",
+      "description": "Zgodnie z opisaną procedurą minimalny okres mobilności wynosi 3 miesiące, a maksymalny finansowany pobyt – 5 miesięcy. W przypadku niepełnych miesięcy stypendium oblicza się proporcjonalnie, przyjmując 1/30 kwoty miesięcznej za każdy dzień."
+    },
+    "funding": {
+      "title": "Stypendium miesięczne i wsparcie podróży",
+      "description": "Przywołana procedura określa stypendium dla studentów objętych tym programem na 800 EUR miesięcznie. Dodatkowe wsparcie kosztów podróży jest obliczane na podstawie odległości z wykorzystaniem [kalkulatora odległości Komisji Europejskiej](https://erasmus-plus.ec.europa.eu/resources-and-tools/distance-calculator)."
+    },
+    "payments": {
+      "title": "Wypłata stypendium",
+      "description": "Według opisanej procedury 90% stypendium wypłacane jest w ciągu 30 dni od podpisania umowy przez obie strony. Pozostałe 10% wypłacane jest w ciągu 20 dni od otrzymania wymaganej ankiety internetowej UE po zakończeniu mobilności."
+    },
+    "changes": {
+      "title": "Zmiany w Learning Agreement",
+      "description": "Jeśli pierwotnie uzgodniony program studiów nie może zostać zrealizowany z przyczyn niezależnych od studenta, dopuszcza się wprowadzenie zmian poprzez dodanie lub usunięcie przedmiotów."
+    },
+    "changesApproval": {
+      "title": "Zatwierdzanie zmian",
+      "description": "Przywołana procedura wymaga zatwierdzenia zmian przez obie uczelnie w ciągu miesiąca od rozpoczęcia zajęć. Student powinien wypełnić część During the Mobility w Learning Agreement, uzyskać akceptację uczelni macierzystej, a następnie właściwego [koordynatora wydziałowego PŚk](/pl/students/coordinators). Niezatwierdzone zmiany mogą prowadzić do nieuznania przedmiotów lub obowiązku zwrotu stypendium."
+    }
+  },
+
+  "fundingNote": "Podane kwoty stypendium, terminy wypłat i okresy mobilności pochodzą z wcześniejszej procedury uczelni dotyczącej określonego rodzaju mobilności międzynarodowej Erasmus+. Obowiązujące warunki wynikają z właściwego naboru, [Przewodnika po programie Erasmus+](https://erasmus-plus.ec.europa.eu/erasmus-programme-guide) i podpisanej przez studenta umowy stypendialnej.",
+
+  "resourcesTitle": "Ważne linki i dokumenty",
+  "resourcesDescription": "Skorzystaj z portalu rekrutacyjnego, kontaktów do koordynatorów, oficjalnych formularzy oraz materiałów programu Erasmus+.",
+
+  "resources": {
+    "registration": "Portal rekrutacyjny IRK",
+    "coordinators": "Koordynatorzy wydziałowi Erasmus+",
+    "guidelines": "Instrukcje dla studentów przyjeżdżających",
+    "grantSample": "Wzór umowy stypendialnej",
+    "financialForm": "Formularz informacji finansowych i administracyjnych",
+    "distanceCalculator": "Kalkulator odległości Komisji Europejskiej"
+  },
+
+  "departureTitle": "Przed wyjazdem",
+  "departureText": "Po ukończeniu wymaganych zajęć, zaliczeniu egzaminów i uzyskaniu ocen student powinien upewnić się, że wszystkie wyniki zostały zapisane. Koordynator wydziałowy wystawi wykaz zaliczeń (Transcript of Records) zgodnie z procedurą uczelni.",
+
+  "contactTitle": "Potrzebujesz pomocy?"
+}
+
+
+
+
+
+
+
+
+
+
+
+
 }
