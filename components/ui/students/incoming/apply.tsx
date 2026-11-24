@@ -3,6 +3,7 @@ import Link from "next/link";
 
 export default async function Hero() {
   const t = await getTranslations("incoming");
+  
   return (
     <div className="w-full h-min p-4 md:p-8 lg:p-16 grid grid-cols-1 md:grid-cols-2 gap-6 justify-start items-start bg-bg">
       <div className="flex flex-col flex-1 items-start justify-start gap-3 bg-surface-2 p-5 md:p-8 rounded-2xl md:rounded-3xl">
@@ -15,7 +16,7 @@ export default async function Hero() {
           <li>{t("p5")}</li>
         </ol>
         <Link
-          href="/students/incomings/application-process"
+          href="/students/incoming/application-process"
           className="py-2 underline underline-offset-8 text-brand-ink font-semibold"
         >
           {t("app-btn")} →
