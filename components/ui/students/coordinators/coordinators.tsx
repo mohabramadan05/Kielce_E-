@@ -9,7 +9,7 @@ import Image from "next/image";
 export default async function Coordinators() {
   const t = await getTranslations("Coordinators");
   return (
-    <div className="w-full h-min p-4 md:px-16 pb-4 md:pb-8 grid grid-cols-1 md:grid-cols-2 gap-6 justify-center items-start bg-bg">
+    <div className="w-full h-min p-4 md:px-16 pb-4 md:pb-8 grid grid-cols-1 lg:grid-cols-2 gap-6 justify-center items-start bg-bg">
       <div className="group relative gap-3 flex w-full flex-col rounded-3xl border-t-[3px] border-t-[#EF7A1B] bg-surface p-8 shadow-[0_4px_20px_rgba(15,23,42,0.06)] transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_10px_30px_rgba(15,23,42,0.10)] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#1e3a5f] focus-visible:ring-offset-2">
         <div className="flex flex-col md:flex-row gap-4 items-center">
           <Image src={weaii} alt="weaii" className="w-22 h-8" />

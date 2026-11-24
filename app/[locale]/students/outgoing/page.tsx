@@ -5,7 +5,7 @@ import Apply from "@/components/ui/students/outgoing/apply";
 import Details from "@/components/ui/students/outgoing/details";
 import Ready from "@/components/ui/students/outgoing/ready";
 
-export default async function CoordinatorsPage({
+export default async function OutgoingPage({
   params,
 }: {
   params: Promise<{ locale: string }>;
