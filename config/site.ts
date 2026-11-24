@@ -1,25 +1,22 @@
+
 export const siteConfig = {
   name: "Erasmus+",
-    nav: [
 
-{
-  key: "about",
-  children: [
-    { key: "overview", href: "/about" },
-    { key: "policy", href: "/about/policy" },
-    { key: "inclusion", href: "/about/inclusion" },
-    { key: "news", href: "/news" },
-    { key: "gallery", href: "/gallery" },
-  ],
-},
-   /*   {
-        key: "about",
-        children: [
-          { key: "policy", href: "/about/policy" },
-          { key: "news", href: "/news" },
-          { key: "gallery", href: "/gallery" },
-        ],
-      },*/
+  nav: [
+    {
+      key: "about",
+      children: [
+        { key: "overview", href: "/about" },
+        { key: "policy", href: "/about/policy" },
+        { key: "inclusion", href: "/about/inclusion" },
+        { key: "news", href: "/news" },
+        {
+          key: "gallery",
+          href: "https://www.flickr.com/photos/191991580@N08/",
+        },
+      ],
+    },
+
     {
       key: "students",
       children: [
@@ -28,10 +25,9 @@ export const siteConfig = {
         { key: "coordinators", href: "/students/coordinators" },
       ],
     },
+
     { key: "ka220", href: "/ka220" },
     { key: "ka171", href: "/ka171" },
     { key: "contact", href: "/contact" },
-
-
   ],
 } as const;
