@@ -1,3 +1,4 @@
+
 // Partner universities (KA-131) — generated from Lista_umow_Erasmus.xlsx
 // Outgoing quotas per agreement row; rows that differ only by ISCED code are merged.
 
