@@ -608,9 +608,22 @@
       "STA": "STA incoming",
       "STA_O": "STA outgoing",
       "Completed": "Completed cohorts",
+      "expired":"valid until",
+      "brazil": "Brazil",
+      "malaysia": "Malaysia",
+      "ukraine": "Ukraine",
+      "india": "India",
+      "china": "China",
+      "jordan": "Jordan",
       "Rules-header": "Rules and application forms",
+      "staff-title": "Staff mobility for teaching/training (STA/STT)",
+      "student-title": "Student mobility for studies (SMS)",
       "Rules-form": "Rules",
       "STA-form": "STA application form",
-      "STT-form": "STT application form"
+      "STT-form": "STT application form",
+      "application-process": "Application process",
+      "learning-agreement": "Learning agreement",
+      "applicable-rates": "Applicable rates"
     }
+    
 }
