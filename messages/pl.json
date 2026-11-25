@@ -607,9 +607,21 @@
     "STA": "STA przyjazd",
     "STA_O": "STA wyjazd",
     "Completed": "Ukończone kohorty",
+    "expired":"ważne do",
+    "brazil": "Brazylia",
+    "malaysia": "Malezja",
+    "ukraine": "Ukraina",
+    "india": "Indie",
+    "china": "Chiny",
+    "jordan": "Jordania",
     "Rules-header": "Zasady i formularze zgłoszeniowe",
+    "staff-title": "Mobilność pracowników w celu prowadzenia zajęć/szkoleń (STA/STT)",
+    "student-title": "Mobilność studentów w celu podjęcia studiów (SMS)",
     "Rules-form": "Zasady",
-    "STA-form": "STA formularz zgłoszeniowy",
-    "STT-form": "STT formularz zgłoszeniowy"
+    "STA-form": "Formularz zgłoszeniowy STA",
+    "STT-form": "Formularz zgłoszeniowy STT",
+    "application-process": "Proces rekrutacji",
+    "learning-agreement": "Porozumienie o programie studiów (Learning Agreement)",
+    "applicable-rates": "Obowiązujące stawki"
   }
 }

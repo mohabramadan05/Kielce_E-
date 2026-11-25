@@ -15,7 +15,7 @@ export default async function Ka171Page({
     <section>
       <Hero />
       <Countries />
-      <section className="bg-gray-100 w-full py-8 pb-5">
+      <section className=" w-full py-8 pb-5">
          <Completed/>
       </section>
     </section>
